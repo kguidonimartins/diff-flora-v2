@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e André Moreira
 
+![Fonte: Alex Popovkin - Wikimedia Commons](media/rId20.jpg){width="4.444444444444445in" height="2.511111111111111in"}
+
+Fonte: *Alex Popovkin - Wikimedia Commons*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -37,7 +41,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: VU (Brasil 2022)
 
@@ -66,12 +70,12 @@ Kaastra, R.C. (1977). New taxa and combinations in Rutaceae. *Acta Botanica Neer
 
 Lima, L.F.F. & Silva-Junior, J.C. (2023). [Characterization of entomogenic galls in areas of seasonal deciduous forest in Southwestern Bahia, Brazil](https://doi.org/10.12741/ebrasilis.v16.e1021).  *EntomoBrasilis*, 16.
 
-Melo, P.A. (2008). Flora apícola em Jequitibá, Mundo Novo - BA, 1--77.
+Melo, P.A. (2008). *Flora apícola em Jequitibá, Mundo Novo - BA*.  Dissertação: (Mestrado) - Universidade Federal do Recôncavo da Bahia, Centro de Ciências Agrárias, Ambientais e Biológicas.
 
-Pirani, J.R. & Groppo, M. (2023).  [Rutaceae](https://floradobrasil.jbrj.gov.br/FB816). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Pirani, J.R. & Groppo, M. (2023). *Rutaceae*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB816.](https://floradobrasil.jbrj.gov.br/FB816) Acesso em 11 de abril de 2023.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
 Rolim, S.G., Couto, H.T.Z. & Jesus, R.M. (1999). Mortalidade e recrutamento de árvores na Floresta Atlântica em Linhares (ES).  *Scientia Forestalis*, 55, 46--69.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.

@@ -2,6 +2,10 @@
 
 **Autores(as)**: Eduardo Amorim, Monira Bruno Bicalho, Karlo Guidoni e Luciano Zandoná
 
+![Fonte: Lucas C. Marinho - BioDiversity4All](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Lucas C. Marinho - BioDiversity4All*
+
 **Nomes populares**: orquídea-tucano
 
 **Filo**: Tracheophyta
@@ -28,7 +32,7 @@ Espécie epífita, ocorrendo em diferentes fitofisionomias como Floresta Ciliar 
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-Espécie não endêmica do Brasil, ocorrendo nos domínios fitogeográficos da Amazônia, Caatinga, Mata Atlântica. Possui registros em diversos estados das regiões Norte, Amazonas, Amapá, Pará, Rondônia e Roraima, Nordeste, Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco e Sergipe, Sudeste, Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo e, no Centro-Oeste, no estado do Mato Grosso (Pessoa 2023).  Ademais, é registrada na Colômbia, Guiana Francesa, Guiana, Suriname, Trinidad-Tobago e Venezuela (POWO 2019).
+Espécie não endêmica do Brasil, ocorrendo nos domínios fitogeográficos da Amazônia, Caatinga, Mata Atlântica. Possui registros em diversos estados das regiões Norte, Amazonas, Amapá, Pará, Rondônia e Roraima, Nordeste, Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco e Sergipe, Sudeste, Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo e, no Centro-Oeste, no estado do Mato Grosso (Pessoa 2023).  Ademais, é registrada na Colômbia, Guiana Francesa, Guiana, Suriname, Trinidad-Tobago e Venezuela (POWO 2023).
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -36,7 +40,7 @@ A espécie está presente nas seguintes unidades de conservação: PNM do Tabule
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -56,11 +60,11 @@ Estudos populacionais, ecologia de polinização, pesquisas com associações de
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Koch, A.K., Santos, J.U.M. dos & Ilkiu-Borges, A.L. (2014). [Sinopse das Orchidaceae holoepífitas e hemiepífitas da Floresta Nacional de Caxiuanã, PA, Brasil](https://doi.org/10.1590/S2236-89062014000100012).  *Hoehnea*, 41, 129--148.
+Koch, A.K., Santos, J.U.M. & Ilkiu-Borges, A.L. (2014). [Sinopse das Orchidaceae holoepífitas e hemiepífitas da Floresta Nacional de Caxiuanã, PA, Brasil](https://doi.org/10.1590/S2236-89062014000100012).  *Hoehnea*, 41, 129--148.
 
-Pessoa, E.M. (2023). [Epidendrum in Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB20046>.).
+Pessoa, E.M. (2023). *Epidendrum*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB11518.](https://floradobrasil.jbrj.gov.br/FB11518) Acesso em 11 de abril de 2023.
 
-POWO. (2019). [Plants of the World Online](http://www.plantsoftheworldonline.org/). *Facilitated by the Royal Botanic Gardens, Kew*.
+POWO. (2023). *Plants of the World Online*. *Facilitated by the Royal Botanic Gardens, Kew*. Disponível em: [http://www.plantsoftheworldonline.org/.](http://www.plantsoftheworldonline.org/) Acesso em 11 de abril de 2023.
 
 Rêgo, H.T. & Azevedo, C.O. (2017). [Sinopse das Orchidaceae do Parque Nacional de Boa Nova, BA, Brasil](https://doi.org/10.1590/2236-8906-44/2016). *Hoehnea*, 44, 70--89.
 

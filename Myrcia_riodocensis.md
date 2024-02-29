@@ -41,7 +41,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022)
 
@@ -68,17 +68,17 @@ Pesquisas sobre tamanho e a tendência populacional, história de vida e ecologi
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Ribeiro, M., Peixoto, A.L., Pereira, O.J. & Menezes, L.F.T. (2022).  Tabuleiro Forest in Southeast Brazil: exploring the neglected diversity of a forest fragment. *Pesquisas, Botânica*, 76, 149--191.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
 Rolim, S.G., Couto, H.T.Z. & Jesus, R.M. (1999). Mortalidade e recrutamento de árvores na Floresta Atlântica em Linhares (ES).  *Scientia Forestalis*, 55, 46--69.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
-Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., *et al.* (2023).  [Myrcia](https://floradobrasil.jbrj.gov.br/FB10660). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., *et al.* (2023). *Myrcia*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB10660.](https://floradobrasil.jbrj.gov.br/FB10660) Acesso em 11 de abril de 2023.
 
 Scaravelli, F.S., Gaem, P.H., Valdemarin, K.S., Lucas, E. & Mazine, F.F.  (2022). [Myrcia (Myrtaceae) in the Vale Natural Reserve, Linhares, Espírito Santo, Brazil](https://doi.org/10.1590/2175-7860202273024).  *Rodriguesia*, 73.
 

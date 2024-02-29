@@ -37,7 +37,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: VU (Brasil 2022)
 
@@ -60,7 +60,7 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 ## REFERÊNCIAS
 
-Amorim, A.M. (2002). Five new species of Heteropterys (Malpighiaceae) from Central and South America. *Brittonia*, 54, 217--232.
+Amorim, A.M. (2002). [Five new species of Heteropterys (Malpighiaceae) from Central and South America](https://doi.org/10.1663/0007-196X(2003)54[217:FNSOHM]2.0.CO;2).  *Brittonia*, 54, 217--232.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
@@ -68,6 +68,6 @@ Lima, I.P., Nogueira, M.R., Monteiro, L.R. & Peracchi, A.L. (2016).  Frugivoria 
 
 Pessoa, C., Costa, J.A.S. & Amorim, A.M. (2014). [Flora da Bahia: Malpighiaceae 2 - Heteropterys](https://doi.org/10.13102/scb476).  *Sitientibus série Ciências Biológicas*, 14, 14--41.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.

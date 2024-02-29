@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -72,8 +72,8 @@ Kameyama, C. (2009). Acanthaceae. Em: *Plantas da Floresta Atlântica* (orgs. S
 
 Paula, A., Lopes, W.P. & Silva, A.F. (2009). Florística e estrutura de fragmentos florestais no entorno da lagoa Juparanã, Linhares, Espírito Santo, Brasil. *Boletim do Museu de Biologia Mello Leitão. Nova Série*, 26, 5--23.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Siqueira, G.S., Kierulff, M.C.M. & Alves-Araújo, A. (2014). Florística das plantas vasculares da Reserva Natural Vale, Linhares, Espírito Santo, Brasil. *Ciência & Ambiente*, 49, 67--129.

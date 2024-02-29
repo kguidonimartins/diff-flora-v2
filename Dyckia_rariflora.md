@@ -39,18 +39,18 @@ A espécie está presente nas seguintes unidades de conservação: ESEC do Tripu
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
-**PATs/PANs**: Espécie-alvo no PAN Serra do Espinhaço Meridional (Pougy *et al.* 2015) e beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Espécie-alvo no PAN Serra do Espinhaço Meridional (Pougy *et al.* 2015) e beneficiada no PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Não consta
 
 ## PRINCIPAIS AMEAÇAS
 
-As subpopulações da espécie apresentam diferentes vetores de pressão. Os conjuntos ao sul enfrentam expansão urbana e as subpopulações na área impactada pelo rompimento da barragem sofrem outra pressão. O rompimento da barragem de Fundão provavelmente impactou a espécie com perda de habitat resultante da erosão e deposição de rejeitos, mudanças na condição do habitat em função da erosão e deposição de rejeitos, alterações na conectividade resultantes da perda de habitat ou de alterações na condição dos habitat, mortalidade direta de indivíduos por inundação e deposição de rejeitos e mortalidade direta pela deposição de rejeitos (Projetos Ltda 2016). Mais acima, ocorre perda significativa de área para mineração, o que também afeta o conjunto ao norte, próximo à Cava da Mina de Brucutu. Em contraste, as ocorrências a oeste, no Parque Nacional da Serra da Gandarela, sofrem um impacto direto menor e têm localizações distintas em comparação
-com as demais.
+As subpopulações da espécie apresentam diferentes vetores de pressão. Os conjuntos ao sul enfrentam expansão urbana e as subpopulações na área impactada pelo rompimento da barragem sofrem outra pressão. O rompimento da barragem de Fundão provavelmente impactou a espécie com perda de habitat resultante da erosão e deposição de rejeitos, mudanças na condição do habitat em função da erosão e deposição de rejeitos, alterações na conectividade resultantes da perda de habitat ou de alterações na condição dos habitat, mortalidade direta de indivíduos por inundação e deposição de rejeitos e mortalidade direta pela deposição de rejeitos (Golder Associates 2016). Mais acima, ocorre perda significativa de área para mineração, o que também afeta o conjunto ao norte, próximo à Cava da Mina de Brucutu. Em contraste, as ocorrências a oeste, no Parque Nacional da Serra da Gandarela, sofrem um impacto direto menor e têm localizações distintas em
+comparação com as demais.
 
 ## PESQUISAS RECOMENDADAS
 
@@ -60,12 +60,12 @@ Estudos de biologia reprodutiva.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Guarçoni, E.A.E. (2014). [Estudos taxonômicos e de anatomia foliar em espécies de Dyckia Schult. & Schult. f. (Bromeliaceae, Pitcairnioideae)](https://locus.ufv.br//handle/123456789/7590). tese de doutorado. Tese (Doutorado em Botânica) - Universidade Federal de Viçosa.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Guarçoni, E.A.E., Santos-Silva, F. & Forzza, R.C. (2023). [Dyckia in Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB27663>.).
+Guarçoni, E.A.E. (2014). [*Estudos taxonômicos e de anatomia foliar em espécies de Dyckia Schult. & Schult. f. (Bromeliaceae, Pitcairnioideae)*](https://locus.ufv.br//handle/123456789/7590). Tese (Doutorado em Botânica) - Universidade Federal de Viçosa.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+Guarçoni, E.A.E., Santos-Silva, F. & Forzza, R.C. (2023). *Dyckia*.  *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB27663.](https://floradobrasil.jbrj.gov.br/FB27663) Acesso em 11 de abril de 2023.
+
+IEF. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
 
 Pougy, N., Verdi, M., Martins, E., Loyola, R. & Martinelli, G. (2015).  [*Plano de Ação Nacional para a conservação da flora ameaçada de extinção da Serra do Espinhaço Meridional*](https://dspace.jbrj.gov.br/jspui/handle/doc/42). CNCFlora : Jardim Botânico do Rio de Janeiro : Laboratório de Biogeografia da Conservação : Andrea Jakobsson Estúdio, Rio de Janeiro.
-
-Projetos Ltda, G.A.B.C. e. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.

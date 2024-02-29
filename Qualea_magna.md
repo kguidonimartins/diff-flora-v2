@@ -45,7 +45,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -69,13 +69,13 @@ Pesquisas abrangentes sobre a tamanho e tendências populacionais, história de 
 
 ## REFERÊNCIAS
 
-[Brandes, A.F.N., Novello, B.Q., Domingues, G.A.F., Barros, C.F. & Tamaio, N. (2020). *Journal for Nature Conservation*, 55, 125821.](https://doi.org/10.1016/j.jnc.2020.125821)
+Brandes, A.F.N., Novello, B.Q., Domingues, G.A.F., Barros, C.F. & Tamaio, N. (2020). [Endangered species account for 10 % of Brazil's documented timber trade](https://doi.org/10.1016/j.jnc.2020.125821).  *Journal for Nature Conservation*, 55, 125821.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
 Engel, V.L. & Martins, F.R. (2005). Reproductive phenology of Atlantic forest tree species in Brazil: an eleven year study. *Tropical Ecology*, 46, 1--16.
 
-Magalhães, J.H.R. (2018). Estrutura da comunidade arbórea de um remanescente de floresta madura nos tabuleiros costeiros do extremo sul da Bahia, Brasil. *Boletim do Museu de Biologia Mello Leitão (Nova Série)*, 40, 93--122.
+Magalhães, J.H.R. (2018). Estrutura da comunidade arbórea de um remanescente de floresta madura nos tabuleiros costeiros do extremo sul da Bahia, Brasil. *Bol. Mus. Biol. Mello Leitão*, 40, 93--122.
 
 Paula, A., Lopes, W.P. & Silva, A.F. (2009). Florística e estrutura de fragmentos florestais no entorno da lagoa Juparanã, Linhares, Espírito Santo, Brasil. *Boletim do Museu de Biologia Mello Leitão. Nova Série*, 26, 5--23.
 
@@ -83,7 +83,7 @@ Peixoto, A.L. & Jesus, R.M. (2016). Reserva Natural Vale: memórias de 65 anos d
 
 Peixoto, A.L., Silva, M.I., Pereira, O.J., Simonelli, M., Jesus, R.M. & Rolim, S.G. (2008). Tabuleiro Forests North of the Rio Doce: Their Representation in the Vale do Rio Doce Natural Reserve, Espírito Santo, Brazil. Em: *The Atlantic Coastal Forest of Northeastern Brazil. Memoirs of The New York Botanical Garden 100* (org. Thomas, W.W.). New York Botanical Garden Press, p. 319--350.
 
-Rocha-Santos, L. & Talora, D.C. (2012). Recovery of Atlantic Rainforest areas altered by distinct land-use histories in northeastern Brazil.  *Tropical Conservation Science*, 5, 475--494.
+Rocha-Santos, L. & Talora, D.C. (2012). [Recovery of Atlantic Rainforest areas altered by distinct land-use histories in northeastern Brazil](https://doi.org/10.1177/194008291200500406). *Tropical Conservation Science*, 5, 475--494.
 
 Rolim, S.G., Couto, H.T.Z. & Jesus, R.M. (1999). Mortalidade e recrutamento de árvores na Floresta Atlântica em Linhares (ES).  *Scientia Forestalis*, 55, 46--69.
 
@@ -91,7 +91,7 @@ Rolim, S.G., Ivanauskas, N.M. & Engel, V.L. (2016a). As Florestas de Tabuleiro d
 
 Rolim, S.G., Peixoto, A.L., Pereira, O.J., Araujo, D.S.D., Nadruz, M., Siqueira, G., *et al.* (2016b). Angiospermas da Reserva Natural Vale, na Floresta Atlântica do Norte do Espírito Santo. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs.  Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p.  167--230.
 
-Shimizu, G.H., Souza, L.F., Gonçalves, D.J.P. & França, F. (2023).  [Vochysiaceae](https://floradobrasil.jbrj.gov.br/FB15291). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Shimizu, G.H., Souza, L.F., Gonçalves, D.J.P. & França, F. (2023).  *Vochysiaceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB15291.](https://floradobrasil.jbrj.gov.br/FB15291) Acesso em 11 de abril de 2023.
 
 Siqueira, G.S., Kierulff, M.C.M. & Alves-Araújo, A. (2014). Florística das plantas vasculares da Reserva Natural Vale, Linhares, Espírito Santo, Brasil. *Ciência & Ambiente*, 49, 67--129.
 

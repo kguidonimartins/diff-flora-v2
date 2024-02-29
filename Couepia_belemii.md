@@ -39,7 +39,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -61,4 +61,4 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Magalhães, J.H.R. (2018). Estrutura da comunidade arbórea de um remanescente de floresta madura nos tabuleiros costeiros do extremo sul da Bahia, Brasil. *Bol. Mus. Biol. Mello Leitão*, 40, 93--122.
 
-Sothers, C.A. & Prance, G.T. (2023). [Couepia Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB16762>.).
+Sothers, C.A. & Prance, G.T. (2023). *Couepia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB16761.](https://floradobrasil.jbrj.gov.br/FB16761) Acesso em 11 de abril de 2023.

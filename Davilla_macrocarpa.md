@@ -2,6 +2,10 @@
 
 **Autores(as)**: Eduardo Amorim, Monira Bruno Bicalho, Karlo Guidoni e Jair Quintino de Faria
 
+![Fonte: Geovane Siqueira - BioDiversity4All](media/rId20.jpg){width="6.486111111111111in" height="8.648147419072616in"}
+
+Fonte: *Geovane Siqueira - BioDiversity4All*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -34,7 +38,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: VU (Brasil 2022)
 
@@ -54,4 +58,4 @@ Fazem necessárias pesquisas sobre o tamanho da população, distribuição geog
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Fraga, C.N. (2023). [Davilla Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB7349>.).
+Fraga, C.N. (2023). *Davilla*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB7349.](https://floradobrasil.jbrj.gov.br/FB7349) Acesso em 11 de abril de 2023.

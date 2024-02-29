@@ -46,7 +46,7 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: NT (Brasil 2022)
 
@@ -75,11 +75,11 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, bem como ecol
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Gomes, F.S. & Guedes, M.L.S. (2014). Flora vascular e formas de vida das formações de restinga do litoral norte da Bahia, Brasil. *Acta Biológica Catarinense*, 1, 22--43.
+Gomes, F.S. & Guedes, M.L.S. (2014). [Flora vascular e formas de vida das formações de restinga do litoral norte da Bahia, Brasil](https://doi.org/10.21726/abc.v1i1.600). *Acta Biológica Catarinense*, 1, 22--43.
 
 Lopes, L.C.M., Mariano-Neto, E. & Amorim, A.M. (2015). Estrutura e composição florística da comunidade lenhosa do sub-bosque em uma floresta tropical no Brasil. *Boletim do Museu de Biologia Mello Leitão (Nova Série)*, 37, 361--391.
 
-Magalhães, J.H.R. (2018). Estrutura da comunidade arbórea de um remanescente de floresta madura nos tabuleiros costeiros do extremo sul da Bahia, Brasil. *Boletim do Museu de Biologia Mello Leitão (Nova Série)*, 40, 93--122.
+Magalhães, J.H.R. (2018). Estrutura da comunidade arbórea de um remanescente de floresta madura nos tabuleiros costeiros do extremo sul da Bahia, Brasil. *Bol. Mus. Biol. Mello Leitão*, 40, 93--122.
 
 Martini, A.M.Z., Fiaschi, P., Amorim, A.M. & Paixão, J.L.D. (2007). [A hot-point within a hot-spot: a high diversity site in Brazil's Atlantic Forest](https://doi.org/10.1007/s10531-007-9166-6). *Biodiversity and Conservation*, 16, 3111--3128.
 
@@ -87,12 +87,12 @@ Paula, A., Lopes, W.P. & Silva, A.F. (2009). Florística e estrutura de fragment
 
 Piotto, D., Montagnini, F., Thomas, W., Ashton, M. & Oliver, C. (2009).  [Forest recovery after swidden cultivation across a 40-year chronosequence in the Atlantic Forest of southern Bahia, Brazil](https://doi.org/10.1007/s11258-009-9615-2). *Plant Ecology*, 205, 261--272.
 
-Rocha, D.S.B. & Amorim, A.M.A. (2012). Heterogeneidade altitudinal na Floresta Atlântica setentrional: um estudo de caso no sul da Bahia, Brasil. *Acta Botanica Brasilica*, 26, 309--327.
+Rocha, D.S.B. & Amorim, A.M.A. (2012). [Heterogeneidade altitudinal na Floresta Atlântica setentrional: um estudo de caso no sul da Bahia, Brasil](https://doi.org/10.1590/S0102-33062012000200008). *Acta Botanica Brasilica*, 26, 309--327.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
-Shimizu, G.H., Souza, L.F., Gonçalves, D.J.P. & França, F. (2023).  [Vochysiaceae](https://floradobrasil.jbrj.gov.br/FB15291). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Shimizu, G.H., Souza, L.F., Gonçalves, D.J.P. & França, F. (2023).  *Vochysiaceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB15296.](https://floradobrasil.jbrj.gov.br/FB15296) Acesso em 11 de abril de 2023.
 
-Valle, M.L.A., Sousa Aleluia Santos, B. de & Jardim, J.G. (2019). [A xiloteca do Centro de Pesquisas do Cacau e as madeiras da Mata Atlântica](https://doi.org/10.33447/paubrasilia.v2i2.28). *Paubrasilia*, 2, 7--13.
+Valle, M.L.A., Santos, B.S.A. & Jardim, J.G. (2019). [A xiloteca do Centro de Pesquisas do Cacau e as madeiras da Mata Atlântica](https://doi.org/10.33447/paubrasilia.v2i2.28). *Paubrasilia*, 2, 7--13.

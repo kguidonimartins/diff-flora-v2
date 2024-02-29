@@ -20,8 +20,8 @@
 
 **Categoria**: VU
 
-**Justificativa**: *Swartzia linharensis*, popularmente conhecida como laranjinha, é uma árvore endêmica da Mata Atlântica associada às Florestas Ombrófilas e Florestas Estacionais Semideciduais, nos estados do Espírito Santo e Rio de Janeiro. Na bacia do Rio Doce, sua distribuição é conhecida para os municípios de Colatina, Jaguaré, Linhares e Sooretama, apresentando Extensão de Ocorrência (EOO) de 2.821 km², Área de Ocupação (AOO) de 72 km² e oito localizações condicionadas a ameaçass. Diversos registros da espécie estão em pequenas áreas de vegetação circundados por áreas de pastagem, cultivos agrícolas e silviculturas. Cerca de 51% da EOO da espécie foi convertida em pastagens, 10% em mosaico de usos, 3% em plantios de café, 2% em área urbanizada e 1% em silvicultura. O rompimento da barragem de Fundão provavelmente afetou duas subpopulações da espécie, dentre elas a subpopulação da Floresta Nacional de Goytacazes, com mudanças na condição
-do habitat devido à erosão e deposição de rejeitos. Diante desse cenário, infere-se declínio contínuo de EOO, AOO, qualidade de habitat e número de localizações condicionadas a ameaçass. Como resultado, a espécie foi avaliada como "Vulnerável (VU)" na bacia do Rio Doce. Não há informações disponíveis sobre migração significativa de populações de fora para a bacia do Rio Doce, portanto, a categoria aplicada é mantida.
+**Justificativa**: *Swartzia linharensis*, popularmente conhecida como laranjinha, é uma árvore endêmica da Mata Atlântica associada às Florestas Ombrófilas e Florestas Estacionais Semidecíduas , nos estados do Espírito Santo e Rio de Janeiro. Na bacia do Rio Doce, sua distribuição é conhecida para os municípios de Colatina, Jaguaré, Linhares e Sooretama, apresentando Extensão de Ocorrência (EOO) de 2.821 km², Área de Ocupação (AOO) de 72 km² e oito localizações condicionadas a ameaçass. Diversos registros da espécie estão em pequenas áreas de vegetação circundados por áreas de pastagem, cultivos agrícolas e silviculturas. Cerca de 51% da EOO da espécie foi convertida em pastagens, 10% em mosaico de usos, 3% em plantios de café, 2% em área urbanizada e 1% em silvicultura. O rompimento da barragem de Fundão provavelmente afetou duas subpopulações da espécie, dentre elas a subpopulação da Floresta Nacional de Goytacazes, com mudanças na
+condição do habitat devido à erosão e deposição de rejeitos. Diante desse cenário, infere-se declínio contínuo de EOO, AOO, qualidade de habitat e número de localizações condicionadas a ameaçass. Como resultado, a espécie foi avaliada como "Vulnerável (VU)" na bacia do Rio Doce. Não há informações disponíveis sobre migração significativa de populações de fora para a bacia do Rio Doce, portanto, a categoria aplicada é mantida.
 
 ## INFORMAÇÕES GERAIS
 
@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -61,14 +61,14 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Flora e Funga do Brasil. (2023). [Jardim Botânico do Rio de Janeiro](http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaNovaConsulta.do#CondicaoTaxonCP).
+Flora e Funga do Brasil. (2023). *Jardim Botânico do Rio de Janeiro*.  Disponível em: [http://floradobrasil.jbrj.gov.br/.](http://floradobrasil.jbrj.gov.br/) Acesso em 11 de abril de 2023.
 
-Mansano, V.F. & Tozzi, A.M.G.A. (2001). Swartzia Schreb. (Leguminosae: Papilionoideae: Swartzieae): A taxonomic study of the Swartzia acutifolia complex including a new name and a new species from Southeastern. *Kew Bulletin*, 56, 917--929.
+Mansano, V.F. & Tozzi, A.M.G.A. (2001). [Swartzia Schreb. (Leguminosae: Papilionoideae: Swartzieae): A taxonomic study of the Swartzia acutifolia complex including a new name and a new species from Southeastern](https://doi.org/10.2307/4119303). *Kew Bulletin*, 56, 917--929.
 
-Mansano, V.F. & Tozzi, A.M.G.A. (2004). Swartzia (Leguminosae, Papilionoideae, Swartzieae s.l.) na Reserva Natural da Companhia Vale do Rio Doce, Linhares, ES, Brasil. *Rodriguésia*, 55, 95--113.
+Mansano, V.F. & Tozzi, A.M.G.A. (2004). [Swartzia (Leguminosae, Papilionoideae, Swartzieae s.l.) na Reserva Natural da Companhia Vale do Rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/2175-78602004558506). *Rodriguésia*, 55, 95--113.
 
 Ribeiro, M., Peixoto, A.L., Pereira, O.J. & Menezes, L.F.T. (2022).  Tabuleiro Forest in Southeast Brazil: exploring the neglected diversity of a forest fragment. *Pesquisas, Botânica*, 76, 149--191.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Siqueira, G.S., Kierulff, M.C.M. & Alves-Araújo, A. (2014). Florística das plantas vasculares da Reserva Natural Vale, Linhares, Espírito Santo, Brasil. *Ciência & Ambiente*, 49, 67--129.

@@ -51,12 +51,12 @@ Devem ser incentivadas ações de pesquisa que visem compreender melhor a defini
 
 ## REFERÊNCIAS
 
-CNCFlora. (2012). [Marsdenia fontellana](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Marsdenia fontellana).  *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.
+CNCFlora. (2012). *Marsdenia fontellana*. *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.  Disponível em: [http://cncflora.jbrj.gov.br/portal/pt-br/profile/Marsdenia fontellana.](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Marsdenia fontellana) Acesso em 11 de abril de 2023.
 
 Espírito-Santo, F.S., Rapini, A., Ribeiro, P.L., Liede-Schumann, S., Goyder, D.J. & Fontella-Pereira, J. (2019). [Phylogeny of the tribe Marsdenieae (Apocynaceae), reinstatement of Ruehssia and the taxonomic treatment of the genus in Brazil](https://doi.org/10.1007/s12225-019-9807-4). *Kew Bulletin*, 74, 1--79.
 
-Goes, M.B. & Pereira, J.F. (2009). Asclepiadoideae (Apocynaceae) no município de Santa Teresa, Espirito Santo, Brasil. *Rodriguésia*, 60, 509--529.
+Goes, M.B. & Pereira, J.F. (2009). [Asclepiadoideae (Apocynaceae) no município de Santa Teresa, Espirito Santo, Brasil](https://doi.org/10.1590/2175-7860200960304). *Rodriguésia*, 60, 509--529.
 
-Rapini, A., Souza Silva, R.F. de & Sampaio, L.N.P. (2009). Apocynaceae.  Em: *Plantas Raras do Brasil* (orgs. Giulietti, A.M., Rapini, A., Andrade, M.J.G., Queiroz, L.P. & Silva, J.M.C.). Conservação Internacional / Universidade Estadual de Feira de Santana, p. 54--64.
+Rapini, A., Silva, R.F.S. & Sampaio, L.N.P. (2009). Apocynaceae. Em: *Plantas Raras do Brasil* (orgs. Giulietti, A.M., Rapini, A., Andrade, M.J.G., Queiroz, L.P. & Silva, J.M.C.). Conservação Internacional / Universidade Estadual de Feira de Santana, p. 54--64.
 
-Santo, F.S.E., Santos, A.P.B. & Rapini, A. (2023).  [Ruehssia](https://floradobrasil.jbrj.gov.br/FB131799). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Santo, F.S.E., Santos, A.P.B. & Rapini, A. (2023). *Ruehssia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB131799.](https://floradobrasil.jbrj.gov.br/FB131799) Acesso em 11 de abril de 2023.

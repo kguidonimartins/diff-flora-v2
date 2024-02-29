@@ -39,7 +39,7 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: VU (IUCN 2023) -   Nacional: EN (Brasil 2022)
 
@@ -61,6 +61,6 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Espírito Santo, I., Fontella-Pereira, J. & Araujo, D.S.D. (2010).  Chrysobalanaceae. *Arquivos do Museu Nacional*, 68.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Sothers, C.A. & Prance, G.T. (2023). [Couepia in Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB16782>.).
+Sothers, C.A. & Prance, G.T. (2023). *Couepia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB16761.](https://floradobrasil.jbrj.gov.br/FB16761) Acesso em 11 de abril de 2023.

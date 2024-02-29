@@ -41,7 +41,7 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -67,16 +67,16 @@ A relação de *P. renatiana* com as demais espécies do gênero não é clara e
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Costa, M.G.C. (2013). Biomassa estocada em plantios de restauração com diferentes espaçamentos, diversidades e porcentagens de pioneiras em Mata Atlântica do sudeste do Brasil, 1--69.
+Costa, M.G.C. (2013). *Biomassa estocada em plantios de restauração com diferentes espaçamentos, diversidades e porcentagens de pioneiras em Mata Atlântica do sudeste do Brasil*. Dissertação (Mestrado em Biodiversidade Tropical) - Universidade Federal do Espírito Santo, Centro Universitário Norte do Espírito Santo.
 
-Giaretta, A., Tuler, A.C., Costa Souza, M. da, Valdemarin, K.S., Mazine, F.F. & Peixoto, A.L. (2016). Diversidade de Myrtaceae na Reserva Natural Vale. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p. 247--257.
+Giaretta, A., Tuler, A.C., Souza, M.C., Valdemarin, K.S., Mazine, F.F. & Peixoto, A.L. (2016). Diversidade de Myrtaceae na Reserva Natural Vale.  Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p. 247--257.
 
 Nascimento, A.A., Menezes, L.F.T. & Nascimento, M.T. (2017). [Water content, fibres, and herbivory in leaves of two distinct and adjacent tree communities of the Brazilian Atlantic Forest](https://doi.org/10.1590/2236-8906-43/2016). *Hoehnea*, 44, 103--110.
 
 Peixoto, A.L. & Jesus, R.M. (2016). Reserva Natural Vale: memórias de 65 anos de conservação. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T.  & Srbek-Araujo, A.C.). Editora Rupestre, p. 21--29.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Saiter, F.Z., Guilherme, F.A.G., Thomaz, L.D. & Wendt, T. (2011). [Tree changes in a mature rainforest with high diversity and endemism on the Brazilian coast](https://doi.org/10.1007/s10531-011-0067-3).  *Biodiversity and Conservation*, 20, 1921--1949.
 
-Stadnik, A., Caldas, D.K.D. & Souza, M.C. (2023).  [Plinia](https://floradobrasil.jbrj.gov.br/FB10844). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Stadnik, A., Caldas, D.K.D. & Souza, M.C. (2023). *Plinia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB10844.](https://floradobrasil.jbrj.gov.br/FB10844) Acesso em 11 de abril de 2023.

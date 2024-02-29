@@ -27,7 +27,7 @@ A espécie é considerada uma árvore de sub-bosque ou de dossel, chegando até 
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-Espécie não endêmica do Brasil, ocorrendo nos domínios da Mata Atlântica e Cerrado. Possui registros confirmados para os estados da Bahia, Minas Gerais, Espírito Santo, Rio de Janeiro e Mato Grosso (Catenacci *et al.* 2023) e com ocorrência na Bolívia (POWO 2019).
+Espécie não endêmica do Brasil, ocorrendo nos domínios da Mata Atlântica e Cerrado. Possui registros confirmados para os estados da Bahia, Minas Gerais, Espírito Santo, Rio de Janeiro e Mato Grosso (Catenacci *et al.* 2023) e com ocorrência na Bolívia (POWO 2023).
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -35,11 +35,11 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022)
 
-**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (Instituto Estadual de Florestas 2023).
+**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (IEF 2023).
 
 **CITES**: Não consta
 
@@ -55,18 +55,18 @@ Recomenda-se a condução de estudos abrangentes sobre o tamanho da população,
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Catenacci, F.S., Ribeiro, M., Smith, N.P. & Cabello, N.B. (2023).  [Cariniana in Flora e Funga do Brasil](<https://floradobrasil.jbrj.gov.br/FB8542>). *Jardim Botânico do Rio de Janeiro*.
+Catenacci, F.S., Ribeiro, M., Smith, N.P. & Cabello, N.B. (2023).  *Cariniana*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB8540.](https://floradobrasil.jbrj.gov.br/FB8540) Acesso em 11 de abril de 2023.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Justiniano, M.J., Fredericksen, T.S. & Nash, D. (1999). Ecología y Silvicultura de Especies Menos Conocidas-Yesquero Blanco, Cariniana ianeirensis R. Knuth, Lecythidaceae.
+Justiniano, M.J., Fredericksen, T.S. & Nash, D. (1999). *Ecología y Silvicultura de Especies Menos Conocidas-Yesquero Blanco, Cariniana ianeirensis R. Knuth, Lecythidaceae*. Proyecto BOLFOR.
 
-Lorenzi, H. (2009). *Árvores brasileiras*. 1º edn. Instituto Plantarum.
+Lorenzi, H. (2009). *Árvores brasileiras: manual de identificação e cultivo de plantas arbóreas nativas do Brasil, Volume 3*. 1º edn.  Instituto Plantarum.
 
-POWO. (2019). [Plants of the World Online](http://www.plantsoftheworldonline.org/). *Facilitated by the Royal Botanic Gardens, Kew*.
+POWO. (2023). *Plants of the World Online*. *Facilitated by the Royal Botanic Gardens, Kew*. Disponível em: [http://www.plantsoftheworldonline.org/.](http://www.plantsoftheworldonline.org/) Acesso em 11 de abril de 2023.
 
 Ribeiro, M., Mori, S.A., Alves-Araújo, A. & Peixoto, A.L. (2014). State of knowledge of Lecythidaceae in Espírito Santo state, Brazil. *Boletim do Museu de Biologia Mello Leitão*, 36, 63--84.
 
-Romero-Seas, A., Toledo, M., Zuidema, P.A. & Sleen, P. van der. (2015).  Radials trajectories growth of timber species, yesquero blanco (Cariniana ianeirensis) and serebó (Schizolobium parahyba), in a subhumid forest of the Guarayos province (Santa Cruz-Bolivia). *Ecología en Bolivia*, 50, 25--38.
+Romero-Seas, A., Toledo, M., Zuidema, P.A. & van der Sleen, P. (2015).  Radials trajectories growth of timber species, yesquero blanco (Cariniana ianeirensis) and serebó (Schizolobium parahyba), in a subhumid forest of the Guarayos province (Santa Cruz-Bolivia). *Ecología en Bolivia*, 50, 25--38.

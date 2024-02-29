@@ -24,7 +24,7 @@ Fonte: *W Thomas - Kew\`s Herbarium*
 
 **Categoria**: EN
 
-**Justificativa**: *Zollernia modesta*, popularmente conhecida como orelha-de-onça, é uma árvore endêmica da Mata Atlântica encontrada em Florestas Ombrófilas e Estacionais Semideciduais nos estados da Bahia e Espírito Santo. Na bacia do Rio Doce, ocorre nos municípios de Linhares, São Gabriel da Palha e Sooretama. Na bacia do Rio Doce, sua Extensão de Ocorrência (EOO) é de 4.317 km², com Área de Ocupação (AOO) de 100 km² e oito localizações condicionadas a ameaças. O rompimento da barragem de Fundão provavelmente afetou três subpopulações da espécie, dentre elas a subpopulação da Floresta Nacional de Goytacazes, com mudanças na condição do habitat devido à erosão e deposição de rejeitos. Atualmente, cerca de 52% da EOO da espécie foi convertida em pastagens, 13% em mosaico de usos, 2% em cultivo de café e 2% em área urbanizada. Além disso, a área de ocorrência da espécie encontra-se altamente impactada pelo sistema de cultivo de cacau em
+**Justificativa**: *Zollernia modesta*, popularmente conhecida como orelha-de-onça, é uma árvore endêmica da Mata Atlântica encontrada em Florestas Ombrófilas e Estacionais Semidecíduas nos estados da Bahia e Espírito Santo. Na bacia do Rio Doce, ocorre nos municípios de Linhares, São Gabriel da Palha e Sooretama. Na bacia do Rio Doce, sua Extensão de Ocorrência (EOO) é de 4.317 km², com Área de Ocupação (AOO) de 100 km² e oito localizações condicionadas a ameaças. O rompimento da barragem de Fundão provavelmente afetou três subpopulações da espécie, dentre elas a subpopulação da Floresta Nacional de Goytacazes, com mudanças na condição do habitat devido à erosão e deposição de rejeitos. Atualmente, cerca de 52% da EOO da espécie foi convertida em pastagens, 13% em mosaico de usos, 2% em cultivo de café e 2% em área urbanizada. Além disso, a área de ocorrência da espécie encontra-se altamente impactada pelo sistema de cultivo de cacau em
 cabrucas. Diante desse cenário, infere-se declínio contínuo de EOO, AOO, qualidade de habitat e número de localizações condicionadas a ameaças. Como resultado, a espécie foi avaliada como "Em Perigo (EN)" na bacia do Rio Doce. Não há informações disponíveis sobre migração significativa de populações de fora para a bacia do Rio Doce, portanto, a categoria aplicada é mantida.
 
 ## INFORMAÇÕES GERAIS
@@ -45,7 +45,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: NT (Brasil 2022)
 
@@ -70,28 +70,28 @@ Pesquisas para melhor compreender a EOO da espécie dentro da bacia, o tamanho e
 
 ## REFERÊNCIAS
 
-Archanjo, K.M.P.A., Silva, G.F., Chichorro, J.F. & Soares, C.P.B.  (2012). Estrutura do componente arbóreo da Reserva Particular do Patrimônio Natural Cafundó, Cachoeiro de Itapemirim, Espírito Santo, Brasil. *Floresta*, 42, 145--160.
+Archanjo, K.M.P.A., Silva, G.F., Chichorro, J.F. & Soares, C.P.B.  (2012). [Estrutura do componente arbóreo da Reserva Particular do Patrimônio Natural Cafundó, Cachoeiro de Itapemirim, Espírito Santo, Brasil](http://dx.doi.org/10.5380/rf.v42i1.26311). *Floresta*, 42, 145--160.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Carvalho, A.M. & Barneby, R.C. (1993). The genus Zollernia (Fabaceae: Swartzieae) in Bahia, Brazil. *Brittonia*, 45, 208--212.
+Carvalho, A.M. & Barneby, R.C. (1993). [The genus Zollernia (Fabaceae: Swartzieae) in Bahia, Brazil](https://doi.org/10.2307/2807102).  *Brittonia*, 45, 208--212.
 
-Lobão, D.É.V.P. (2007). Agroecossistema cacaueiro da Bahia: cacau-cabruca e fragmentos florestais na conservação de espécies arbóreas, 1--98.
+Lobão, D.É.V.P. (2007). *Agroecossistema cacaueiro da Bahia: cacau-cabruca e fragmentos florestais na conservação de espécies arbóreas*. Tese (Doutorado em Agronomia - Produção Vegetal) - Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista \"Júlio de Mesquita Filho\".
 
-Magalhães, J.H.R. (2018). Estrutura da comunidade arbórea de um remanescente de floresta madura nos tabuleiros costeiros do extremo sul da Bahia, Brasil. *Boletim do Museu de Biologia Mello Leitão (Nova Série)*, 40, 93--122.
+Magalhães, J.H.R. (2018). Estrutura da comunidade arbórea de um remanescente de floresta madura nos tabuleiros costeiros do extremo sul da Bahia, Brasil. *Bol. Mus. Biol. Mello Leitão*, 40, 93--122.
 
-Mansano, V.F., Azevedo Tozzi, A.M.G. de & Lewis, G.P. (2004). A revision of the South American genus Zollernia Wied Neuw. & Nees (Leguminosae, Papilionoideae, Swartzieae). *Kew Bulletin*, 59, 497--520.
+Mansano, V.F. & Tierno, L.R. (2023). *Zollernia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB19246.](https://floradobrasil.jbrj.gov.br/FB19246) Acesso em 11 de abril de 2023.
 
-Mansano, V.F. & Tierno, L.R. (2023).  [Zollernia](https://floradobrasil.jbrj.gov.br/FB19246). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Mansano, V.F., Tozzi, A.M.G.A. & Lewis, G.P. (2004). [A revision of the South American genus Zollernia Wied Neuw. & Nees (Leguminosae, Papilionoideae, Swartzieae)](https://doi.org/10.2307/4110905). *Kew Bulletin*, 59, 497--520.
 
-Montoya-Pfeiffer, P.M. (2018). Plant-bee interactions and pollen flux in restored areas of Atlantic Forest, 1--92.
+Montoya-Pfeiffer, P.M. (2018). [*Plant-bee interactions and pollen flux in restored areas of Atlantic Forest*](https://doi.org/10.11606/T.41.2019.tde-07032019-094022). Tese (Doutorado em Ecologia: Ecossistemas Terrestres e Aquáticos) - Instituto de Biociências, Universidade de São Paulo.
 
 Paula, A. & Soares, J.J. (2011). Estrutura horizontal de um trecho de Floresta Ombrófila Densa das Terras Baixas na Reserva Biológica de Sooretama, Linhares, ES. *Floresta*, 41, 321--334.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
 Rolim, S.G., Couto, H.T.Z. & Jesus, R.M. (1999). Mortalidade e recrutamento de árvores na Floresta Atlântica em Linhares (ES).  *Scientia Forestalis*, 55, 46--69.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Siqueira, G.S., Kierulff, M.C.M. & Alves-Araújo, A. (2014). Florística das plantas vasculares da Reserva Natural Vale, Linhares, Espírito Santo, Brasil. *Ciência & Ambiente*, 49, 67--129.

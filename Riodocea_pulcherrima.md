@@ -20,7 +20,7 @@
 
 **Categoria**: EN
 
-**Justificativa**: *Riodocea pulcherrima*, popularmente conhecida como arariba-preta, é uma árvore endêmica da Mata Atlântica associada às Florestas Ombrófilas (Floresta Pluvial), Ombrófilas Densa de Terras Baixas (Floresta de Tabuleiro) e Estacionais Semideciduais Aluviais, nos estados da Bahia, Espírito Santo e Rio de Janeiro. Na bacia do Rio Doce, ocorre apenas no município de Linhares, apresentando Extensão de Ocorrência (EOO) de 502 km², Área de Ocupação (AOO) de 32 km² e três localizações condicionadas a ameaçass. O rompimento da barragem de Fundão provavelmente afetou duas subpopulações da espécie, dentre elas a subpopulação da Floresta Nacional de Goytacazes, com mudanças na condição do habitat devido à erosão e deposição de rejeitos. Cerca de 49% da EOO da espécie foi convertida em pastagens, 5% em mosaico de usos e 5% em área urbanizada. Diante desse cenário, infere-se declínio contínuo de EOO, AOO, qualidade de habitat e número de
+**Justificativa**: *Riodocea pulcherrima*, popularmente conhecida como arariba-preta, é uma árvore endêmica da Mata Atlântica associada às Florestas Ombrófilas (Floresta Pluvial), Ombrófilas Densa de Terras Baixas (Floresta de Tabuleiro) e Estacionais Semidecíduas Aluviais, nos estados da Bahia, Espírito Santo e Rio de Janeiro. Na bacia do Rio Doce, ocorre apenas no município de Linhares, apresentando Extensão de Ocorrência (EOO) de 502 km², Área de Ocupação (AOO) de 32 km² e três localizações condicionadas a ameaçass. O rompimento da barragem de Fundão provavelmente afetou duas subpopulações da espécie, dentre elas a subpopulação da Floresta Nacional de Goytacazes, com mudanças na condição do habitat devido à erosão e deposição de rejeitos. Cerca de 49% da EOO da espécie foi convertida em pastagens, 5% em mosaico de usos e 5% em área urbanizada. Diante desse cenário, infere-se declínio contínuo de EOO, AOO, qualidade de habitat e número de
 localizações condicionadas a ameaças. Como resultado, a espécie foi avaliada como "Em Perigo (EN)" na bacia do Rio Doce e, por não haver informações disponíveis sobre migração significativa de populações de fora para a Bacia do Rio Doce, a categoria aplicada é mantida.
 
 ## INFORMAÇÕES GERAIS
@@ -41,7 +41,7 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -72,14 +72,14 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Delprete, P.G. (1999). Riodocea (Rubiaceae, Gardenieae), a new genus from the Brazilian Atlantic forest. *Brittonia*, 51, 15--23.
+Delprete, P.G. (1999). [Riodocea (Rubiaceae, Gardenieae), a new genus from the Brazilian Atlantic forest](https://doi.org/10.2307/2666550).  *Brittonia*, 51, 15--23.
 
-Gomes, M. (2023). [Riodocea](https://floradobrasil.jbrj.gov.br/FB14242).  *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Gomes, M. (2023). *Riodocea*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB14242.](https://floradobrasil.jbrj.gov.br/FB14242) Acesso em 11 de abril de 2023.
 
-Guix, J.C. (2021). Interacciones mutualistas entre animales y plantas X.  Antropocoria: florestas neotropicales. *Publicacions del Centre de Recursos de Biodiversitat Animal*.
+Guix, J.C. (2021). *Interacciones mutualistas entre animales y plantas X. Antropocoria: florestas neotropicales*. *Publicacions del Centre de Recursos de Biodiversitat Animal*. Universitat de Barcelona.
 
-Moreau, J.S. (2014). Estrutura e interação entre vegetação e ambiente de uma Floresta Ombrófila Densa das Terras Baixas, Espírito Santo, 1--96.
+Moreau, J.S. (2014). *Estrutura e interação entre vegetação e ambiente de uma Floresta Ombrófila Densa das Terras Baixas, Espírito Santo*.  Dissertação (Mestrado em Ciências Florestais) - Universidade Federal do Espírito Santo.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.

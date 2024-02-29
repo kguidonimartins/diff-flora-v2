@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins e Karlo Guidoni
 
+![Fonte: Jens G. Rohwer](media/rId20.jpg){width="6.486111111111111in" height="4.312573272090988in"}
+
+Fonte: *Jens G. Rohwer*
+
 **Nomes populares**: oliveira-da-praia (Flora e Funga do Brasil 2023), canela-do-nativo (Peixoto *et al.* 2008)
 
 **Filo**: Tracheophyta
@@ -28,7 +32,7 @@ subpopulação da Floresta Nacional de Goytacazes, com mudanças na condição d
 
 Floresce de setembro a outubro, no início da estação chuvosa, e em janeiro. Frutifica de janeiro a abril (Madriñán 2004; Moraes & Vergne 2018; Ribeiro 2019). Encontrada florescendo a partir dos 4 m de altura (Madriñán 2004). Ocorre em estrato médio de regeneração (Simonelli *et al.* 2010).
 
-Na Reserva Ecológica de Córrego Grande, foram encontrados 4 indivíduos em 0,9 ha com DAP ≥ 2,5 cm (Dias *et al.* 2021). Na Reserva Natural Vale, foram encontrados 8 indivíduos com DAP ≥ 5 cm em 0,93 ha de muçununga (Simonelli *et al.* 2014). Em um fragmento de restinga na APA Lagoa Guanandy, foram encontrados 13 indivíduos com DAP ≥ 5 cm em 2 ha, concentrados em 7 das 20 parcelas estabelecidas (Leite 2010). Em estudo na restinga do Parque Municipal Natural de Jacarenema, foram encontrados 10 indivíduos com DAP ≥ 2 cm em 2.500 m² de área de Floresta de Várzea, e 13 indivíduos em 2.500 m² de área de Floresta de transição (Magnago *et al.* 2012). A altura mínima da espécie, em indivíduos com CAP ≥ 10 cm foi de 5,5 m em Floresta de Várzea e 4,5 m em Floresta de Transição; e a altura máxima foi de 13 m em ambos os tipos de vegetação (Magnago 2009). Segundo Caiafa & Martins (2010), a espécie possui forma de raridade 6 na Mata Atlântica.
+Na Reserva Ecológica de Córrego Grande, foram encontrados 4 indivíduos em 0,9 ha com DAP ≥ 2,5 cm (Dias *et al.* 2021). Na Reserva Natural Vale, foram encontrados 8 indivíduos com DAP ≥ 5 cm em 0,93 ha de muçununga (Simonelli *et al.* 2014). Em um fragmento de restinga na APA Lagoa Guanandy, foram encontrados 13 indivíduos com DAP ≥ 5 cm em 2 ha, concentrados em 7 das 20 parcelas estabelecidas (Leite 2010). Em estudo na restinga do Parque Municipal Natural de Jacarenema, foram encontrados 10 indivíduos com DAP ≥ 2 cm em 2.500 m² de área de Floresta de Várzea, e 13 indivíduos em 2.500 m² de área de Floresta de transição (Magnago *et al.* 2012). A altura mínima da espécie, em indivíduos com CAP ≥ 10 cm foi de 5,5 m em Floresta de Várzea e 4,5 m em Floresta de Transição; e a altura máxima foi de 13 m em ambos os tipos de vegetação (Magnago 2009). A espécie possui forma de raridade 6 na Mata Atlântica (Caiafa & Martins 2010).
 
 A espécie é sugerida como interessante para horticultura por suas qualidades decorativas (Madriñán 2004).
 
@@ -42,7 +46,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Comb
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022)
 
@@ -60,7 +64,7 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 ## REFERÊNCIAS
 
-Assis, A.M., Thomaz, L.D. & Pereira, J.O. (2004). Florística de um trecho de floresta de restinga no município de Guarapari, Espírito Santo, Brasil. *Acta Botanica Brasilica*, 18, 191--201.
+Assis, A.M., Thomaz, L.D. & Pereira, J.O. (2004). [Florística de um trecho de floresta de restinga no município de Guarapari, Espírito Santo, Brasil](https://doi.org/10.1590/S0102-33062004000100016). *Acta Botanica Brasilica*, 18, 191--201.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
@@ -68,28 +72,28 @@ Caiafa, A.N. & Martins, F.R. (2010). [Forms of rarity of tree species in the sou
 
 Dias, P.B., Gomes, L.P., Callegaro, R.M., Carvalho, F.A. & Dias, H.M.  (2021). [Structural and environmental variability from the edge to the interior of an atlantic forest remnant in Brazil](https://doi.org/10.2307/27039920). *Journal of Tropical Forest Science*, 33, 308--322.
 
-Flora e Funga do Brasil. (2023). [Jardim Botânico do Rio de Janeiro](http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaNovaConsulta.do#CondicaoTaxonCP).
+Flora e Funga do Brasil. (2023). *Jardim Botânico do Rio de Janeiro*.  Disponível em: [http://floradobrasil.jbrj.gov.br/.](http://floradobrasil.jbrj.gov.br/) Acesso em 11 de abril de 2023.
 
-Giaretta, A., Menezes, L.F.T.D. & Pereira, O.J. (2013). Structure and floristic pattern of a coastal dunes in southeastern Brazil. *Acta Botanica Brasilica*, 27, 87--107.
+Giaretta, A., Menezes, L.F.T. & Pereira, O.J. (2013). Structure and floristic pattern of a coastal dunes in southeastern Brazil. *Acta Botanica Brasilica*, 27, 87--107.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Leite, V.R. (2010). Análise estrutural e da vulnerabilidade ambiental de um fragmento florestal de Restinga ao Sul do Estado do Espírito Santo, 1--102.
+Leite, V.R. (2010). *Análise estrutural e da vulnerabilidade ambiental de um fragmento florestal de Restinga ao Sul do Estado do Espírito Santo*. Dissertação (Mestrado em Ciências Florestais) - Universidade Federal do Espírito Santo, Centro de Ciências Agrárias.
 
 Madriñán, S. (2004). Rhodostemonodaphne (Lauraceae). *Flora Neotropica*, 92, 1--102.
 
-Magnago, L.F.S. (2009). Gradiente vegetacional e pedológico em floresta de Restinga no Espírito Santo, Brasil, 1--122.
+Magnago, L.F.S. (2009). *Gradiente vegetacional e pedológico em floresta de Restinga no Espírito Santo, Brasil*. Dissertação (Mestrado em Botânica estrutural; Ecologia e Sistemática) - Universidade Federal de Viçosa.
 
-Magnago, L.F.S., Martins, S.V., Schaefer, C.E.G.R., Neri, A.V. & Rolfs, P.H. (2012). Restinga forests of the Brazilian coast: richness and abundance of tree species on different soils. *Anais da Academia Brasileira de Ciências*, 84, 807--822.
+Magnago, L.F.S., Martins, S.V., Schaefer, C.E.G.R., Neri, A.V. & Rolfs, P.H. (2012). [Restinga forests of the Brazilian coast: richness and abundance of tree species on different soils](https://doi.org/10.1590/S0001-37652012000300023). *Anais da Academia Brasileira de Ciências*, 84, 807--822.
 
 Moraes, P.L.R. & Vergne, M.C. (2018). [A synopsis of Lauraceae (excluding Ocotea) from the Reserva Natural Vale, Linhares, Espírito Santo, Brazil](https://doi.org/10.1002/fedr.201800015). *Feddes Repertorium*, 129, 247--303.
 
 Peixoto, A.L., Silva, M.I., Pereira, O.J., Simonelli, M., Jesus, R.M. & Rolim, S.G. (2008). Tabuleiro Forests North of the Rio Doce: Their Representation in the Vale do Rio Doce Natural Reserve, Espírito Santo, Brazil. Em: *The Atlantic Coastal Forest of Northeastern Brazil. Memoirs of The New York Botanical Garden 100* (org. Thomas, W.W.). New York Botanical Garden Press, p. 319--350.
 
-Ribeiro, H.L. (2019). Lauraceae da Bahia, 1--816.
+Ribeiro, H.L. (2019). [*Lauraceae da Bahia*](http://hdl.handle.net/11449/181514). Tese (Doutorado em Ciências Biológicas - Biologia Animal) - Universidade Estadual Paulista - Campus Rio Claro.
+
+Simonelli, M., Correia, G.G.S., Laporti, J. & Rocha, M. (2015). Flora.  Em: *Diagnóstico científico do Rio Doce* (orgs. Elesbom, A.A.A. & al., et). p. 273--319.
 
 Simonelli, M., Magnago, L.F.S., Martins, S.V., Matos, F.A.R. & Demuner, V.G. (2010). Composição de espécies arbóreas em três estádios sucessionais de floresta ciliar na Lagoa Jacunem, Espírito Santo, Brasil. *Boletim do Museu de Biologia Mello Leitão. Nova Série*, 28, 5--19.
 
-Simonelli, M., Souza, A.L. & Peixoto, A.L. (2014). Floristic composition and structure of the tree component of a Muçununga Forest in the Linhares Forest Reserve, Espírito Santo, Brazil. Em: *The Atlantic Coastal Forest of Northeastern Brazil* (org. Thomas, Wm.W.). The New York Botanical Garden Press, p. 345--364.
-
-Simonelli, M., Souza Correia, G.G. de, Laporti, J. & Rocha, M. (2015).  Flora. Em: *Diagnóstico científico do Rio Doce* (orgs. Elesbom, A.A.A. & al., et). p. 273--319.
+Simonelli, M., Souza, A.L. & Peixoto, A.L. (2014). Floristic composition and structure of the tree component of a Muçununga Forest in the Linhares Forest Reserve, Espírito Santo, Brazil. Em: *The Atlantic Coastal Forest of Northeastern Brazil* (org. Thomas, W.W.). The New York Botanical Garden Press, p. 345--364.

@@ -35,7 +35,7 @@ A espécie está presente nas seguintes unidades de conservação: APA Águas Ve
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: NT (Brasil 2022)
 
@@ -57,4 +57,4 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Sylvestre, L.S. (2010). [Notas nomenclaturais em Aspleniaceae (Polypodiopsida) ocorrentes no Brasil](https://doi.org/10.1590/2175-7860201061112). *Rodriguésia*, 61, 109--114.
 
-Sylvestre, L.S., Costa, T.V. & Lino, V. (2023). [Aspleniaceae in Flora e Funga do Brasil](<https://floradobrasil.jbrj.gov.br/FB90686>). *Jardim Botânico do Rio de Janeiro*.
+Sylvestre, L.S., Costa, T.V. & Lino, V. (2023). *Aspleniaceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB90686.](https://floradobrasil.jbrj.gov.br/FB90686) Acesso em 11 de abril de 2023.

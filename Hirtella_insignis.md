@@ -2,9 +2,7 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e Renata Camargo Asprino Pereira Pereira
 
-![Fonte: Tarciso Leão](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}
-
-Fonte: *Tarciso Leão*
+![Fonte: Tarciso Leão](media/rId20.jpg){width="6.486111111111111in" height="8.648147419072616in"}![Fonte: Tarciso Leão](media/rId23.jpg){width="6.486111111111111in" height="4.864583333333333in"}
 
 **Nomes populares**: macuco (Siqueira *et al.* 2014)
 
@@ -41,7 +39,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: NT (Brasil 2022)
 
@@ -66,17 +64,17 @@ Informações sobre a ecologia e taxonomia da espécie são escassas. Devem ser 
 
 Asprino, R. & Amorim, A.M. (2016). [Flora da Bahia: Hirtella (Chrysobalanaceae)](https://doi.org/10.13102/scb1099). *Sitientibus série Ciências Biológicas*, 16, 1--20.
 
-Asprino, R.C. (2023).  [Hirtella](https://floradobrasil.jbrj.gov.br/FB16788). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Asprino, R.C. (2023). *Hirtella*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB16788.](https://floradobrasil.jbrj.gov.br/FB16788) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
 Gomes-Silva, F. & Alves, M. (2020). [Chrysobalanaceae no Nordeste Oriental do Brasil](https://doi.org/10.1590/2175-7860202071105).  *Rodriguesia*, 70, 1--40.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
 Rolim, S.G., Couto, H.T.Z. & Jesus, R.M. (1999). Mortalidade e recrutamento de árvores na Floresta Atlântica em Linhares (ES).  *Scientia Forestalis*, 55, 46--69.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C. (2016a). *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale*. Editora Rupestre.
 

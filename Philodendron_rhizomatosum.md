@@ -38,7 +38,7 @@ A espécie está presente nas seguintes unidades de conservação: APA Morro da 
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Não consta
 
@@ -56,18 +56,18 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 Arruda, L.J., Ranieri, B.D., Cheib, A.L., Morellato, L.P.C., Fernandes, G.W. & Negreiros, D. (2021). [Phenological behavior of herbaceous and woody species in the highly threatened Ironstone Rupestrian Grasslands](https://doi.org/10.1016/j.sajb.2021.02.013). *South African Journal of Botany*, 140, 135--142.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
 
 Meguro, M., Pirani, J.R., Mello-Silva, R. & Giulietti, A.M. (1996).  Caracterização florística e estrutural de matas ripárias e capões de altitude da Serra do Cipó, Minas Gerais. *Boletim de Botânica da Universidade de São Paulo*, 15, 13--29.
 
-Messias, M.C.T.B., Tonaco, A.C., Neto, J.A.A.M. & Leite, M.G.P. (2012).  Levantamento florístico de um campo rupestre ferruginoso na Serra de Antonio Pereira, Ouro Preto, Minas Gerais. *MG BIOTA*, 5, 4--18.
+Messias, M.C.T.B., Tonaco, A.C., Meira Neto, J.A.A. & Leite, M.G.P.  (2012). [Levantamento florístico de um campo rupestre ferruginoso na Serra de Antonio Pereira, Ouro Preto, Minas Gerais](http://www.repositorio.ufop.br/handle/123456789/4096). *MG BIOTA*, 5, 4--18.
 
-Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J. & Ferreira, J.B. (2023). [Philodendron](https://floradobrasil.jbrj.gov.br/FB5058).  *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J. & Ferreira, J.B. (2023). *Philodendron*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB5058.](https://floradobrasil.jbrj.gov.br/FB5058) Acesso em 11 de abril de 2023.
 
-Sakuragui, C.M. & Mayo, S.J. (1997). Three new species of Philodendron (Araceae) from South-Eastern Brazil. *Kew Bulletin*, 52, 673--681.
+Sakuragui, C.M. & Mayo, S.J. (1997). [Three new species of Philodendron (Araceae) from South-Eastern Brazil](https://doi.org/10.2307/4110294).  *Kew Bulletin*, 52, 673--681.
 
-Sakuragui, C.M., Mayo, S.J. & Coelho, M.A.N. (2007). Flora da Serra do Cipó, Minas Gerais: Araceae. *Boletim de Botânica da Universidade de São Paulo*, 25, 87--94.
+Sakuragui, C.M., Mayo, S.J. & Coelho, M.A.N. (2007). [Flora da Serra do Cipó, Minas Gerais: Araceae](https://doi.org/10.11606/issn.2316-9052.v25i1p87-94). *Boletim de Botânica*, 25, 87--94.
 
 Sakuragui, C.M., Mayo, S.J. & Zappi, D.C. (2005). Taxonomic revision of Brazilian species of Philodendron section Macrobelium. *Kew Bulletin*, 60, 465--513.
 
-Santos, L.M. (2010). Restauração de campos ferruginosos mediante resgate de flora e uso de topsoil no Quadrilátero Ferrífero, Minas Gerais, 1--182.
+Santos, L.M. (2010). *Restauração de campos ferruginosos mediante resgate de flora e uso de topsoil no Quadrilátero Ferrífero, Minas Gerais*. Tese (Doutorado) - Universidade Federal de Minas Gerais, Instituto de Ciências Biológicas.

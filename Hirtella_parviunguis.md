@@ -41,11 +41,11 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
-**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (Instituto Estadual de Florestas 2023).
+**PATs/PANs**: Ruehssia fontellana
 
 **CITES**: Não consta
 
@@ -62,18 +62,16 @@ Pesquisas que visem compreender a EOO, tamanho e tendência populacional e amea�
 
 ## REFERÊNCIAS
 
-Asprino, R.C. (2023).  [Hirtella](https://floradobrasil.jbrj.gov.br/FB16788). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Asprino, R.C. (2023). *Hirtella*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB16788.](https://floradobrasil.jbrj.gov.br/FB16788) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-CNCFlora. (2012). [Hirtella parviunguis](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Hirtella parviunguis).  *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.
-
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+CNCFlora. (2012). *Hirtella parviunguis*. *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.  Disponível em: [http://cncflora.jbrj.gov.br/portal/pt-br/profile/Hirtella parviunguis.](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Hirtella parviunguis) Acesso em 11 de abril de 2023.
 
 Prance, G.T. (1989). Chrysobalanaceae. *Flora Neotropica*, 9, 1--267.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Rolim, S.G., Peixoto, A.L., Pereira, O.J., Araujo, D.S.D., Nadruz, M., Siqueira, G., *et al.* (2016). Angiospermas da Reserva Natural Vale, na Floresta Atlântica do Norte do Espírito Santo. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs.  Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p.  167--230.

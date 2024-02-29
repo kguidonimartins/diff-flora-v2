@@ -2,6 +2,10 @@
 
 **Autores(as)**: Eduardo Amorim, Bruno R. Ribeiro, Eline Martins, Karlo Guidoni e Luciano Zandoná
 
+![Fonte: Wikimedia Commons](media/rId20.jpg){width="6.486111111111111in" height="8.648147419072616in"}
+
+Fonte: *Wikimedia Commons*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -12,7 +16,7 @@
 
 **Família**: Orchidaceae
 
-**Notas taxonômicas**: De acordo com Berg (2023), a espécie se distingue da sua congênere mais similar *C. tigrina*, por apresentar flores com diâmetro bem menor (tipicamente 5-6 cm), e istmo do labelo estreito 1-2-(3) mm.
+**Notas taxonômicas**: De acordo com van den Berg (2023), a espécie se distingue da sua congênere mais similar *C. tigrina*, por apresentar flores com diâmetro bem menor (tipicamente 5-6 cm), e istmo do labelo estreito 1-2-(3) mm.
 
 ## AVALIAÇÃO DE RISCO DE EXTINÇÃO
 
@@ -25,11 +29,11 @@ informações sobre migração significativa de populações de fora para a Baci
 
 ## INFORMAÇÕES GERAIS
 
-A espécie é descrita como erva epífita ou terrícola, ocorrendo em fitofisionomias de Florestas Ombrófilas e Restingas (Berg 2023), encontradas em formações arbustivas abertas e fechadas (Fraga & Peixoto 2004). Possui período de floração entre os meses de abril e maio (Berg 2023). Planta ornamental, utilizada para cruzamento e produção de híbridos (Santos 2012).
+A espécie é descrita como erva epífita ou terrícola, ocorrendo em fitofisionomias de Florestas Ombrófilas e Restingas (van den Berg 2023), encontradas em formações arbustivas abertas e fechadas (Fraga & Peixoto 2004). Possui período de floração entre os meses de abril e maio (van den Berg 2023). Planta ornamental, utilizada para cruzamento e produção de híbridos (Santos 2012).
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-Espécie endêmica da Mata Atlântica brasileira, com distribuição concentrada na região sudeste do Brasil nos estados do Paraná, Santa Catarina, Bahia e Pernambuco (Berg 2023). Além disso, há menção para uma possível ocorrência no estado do Rio Grande do Sul.
+Espécie endêmica da Mata Atlântica brasileira, com distribuição concentrada na região sudeste do Brasil nos estados do Paraná, Santa Catarina, Bahia e Pernambuco (van den Berg 2023). Além disso, há menção para uma possível ocorrência no estado do Rio Grande do Sul.
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -37,7 +41,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: VU (Brasil 2022)
 
@@ -55,10 +59,10 @@ Pesquisas sobre o tamanho da população, distribuição geográfica e tendênci
 
 ## REFERÊNCIAS
 
-Berg, C. van den. (2023). [Cattleya in Flora e Funga do Brasil](<https://floradobrasil.jbrj.gov.br/FB11336>). *Jardim Botânico do Rio de Janeiro*.
-
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Fraga, C.N. de & Peixoto, A.L. (2004). [Florística e ecologia das Orchidaceae das restingas do estado do Espírito Santo,](https://doi.org/10.1590/2175-78602004558401) . *Rodriguésia*, 55, 5--20.
+Fraga, C.N. & Peixoto, A.L. (2004). [Florística e ecologia das Orchidaceae das restingas do estado do Espírito Santo,](https://doi.org/10.1590/2175-78602004558401) . *Rodriguésia*, 55, 5--20.
 
-Santos, W.O.D. (2012). Interações ecológicas entre fungos orquidóides e espécies de orquídeas (Cattleya guttata e Brassavola tuberculata) em fragmento de Mata Atlântica do Espírito Santo. tese de doutorado.  Universidade de Vila Velha.
+Santos, W.O.D. (2012). *Interações ecológicas entre fungos orquidóides e espécies de orquídeas (Cattleya guttata e Brassavola tuberculata) em fragmento de Mata Atlântica do Espírito Santo*. Dissertação (Mestrado em Ecologia) - Universidade de Vila Velha.
+
+van den Berg, C. (2023). *Cattleya*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB11336.](https://floradobrasil.jbrj.gov.br/FB11336) Acesso em 11 de abril de 2023.

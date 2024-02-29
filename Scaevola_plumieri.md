@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Comb
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022)
 
@@ -55,16 +55,16 @@ Pesquisas sobre tamanho e a tendência populacional, história de vida e ecologi
 
 ## REFERÊNCIAS
 
-Antar, G.M. (2023a). [Goodeniaceae Flora e Funga do Brasil](<https://floradobrasil.jbrj.gov.br/FB7947>). *Jardim Botânico do Rio de Janeiro*.
+Antar, G.M. (2023a). *Goodeniaceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB7947.](https://floradobrasil.jbrj.gov.br/FB7947) Acesso em 11 de abril de 2023.
 
-Antar, G.M. (2023b).  [Scaevola](https://floradobrasil.jbrj.gov.br/FB7947). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Antar, G.M. (2023b). *Scaevola*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB7947.](https://floradobrasil.jbrj.gov.br/FB7947) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Knevel, I.C. & Lubke, R.A. (2005). Reproductive phenology of Scaevola plumieri; a key coloniser of the coastal foredunes of South Africa.  *Plant Ecology*, 175, 137--145.
+Knevel, I.C. & Lubke, R.A. (2005). [Reproductive phenology of Scaevola plumieri; a key coloniser of the coastal foredunes of South Africa](https://doi.org/10.1007/s11258-004-3369-7). *Plant Ecology*, 175, 137--145.
 
-POWO. (2023). [Plants of the World Online](http://www.plantsoftheworldonline.org/). *Facilitated by the Royal Botanic Gardens, Kew*.
+POWO. (2023). *Plants of the World Online*. *Facilitated by the Royal Botanic Gardens, Kew*. Disponível em: [http://www.plantsoftheworldonline.org/.](http://www.plantsoftheworldonline.org/) Acesso em 11 de abril de 2023.
 
 Thieret, J.W. & Brandenburg, D.M. (1986). Scaevola (Goodeniaceae) in southeastern United States. *SIDA, Contributions to Botany*, 445--453.

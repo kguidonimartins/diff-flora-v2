@@ -39,7 +39,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -59,6 +59,6 @@ Pesquisas sobre o tamanho da população, distribuição geográfica e tendênci
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Dias, P., Gomes, L., Callegaro, R., Carvalho, F. & Dias, H. (2021).  [Structural and environmental variability from the edge to the interior of an Atlantic Forest remnant in Brazil](https://doi.org/10.26525/jtfs2021.33.3.308). *Journal of Tropical Forest Science*, 33, 308--332.
+Dias, P.B., Gomes, L.P., Callegaro, R.M., Carvalho, F.A. & Dias, H.M.  (2021). [Structural and environmental variability from the edge to the interior of an atlantic forest remnant in Brazil](https://doi.org/10.2307/27039920). *Journal of Tropical Forest Science*, 33, 308--322.
 
-Sothers, C.A. & Prance, G.T. (2023). [Exellodendron in Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB34666>.).
+Sothers, C.A. & Prance, G.T. (2023). *Exellodendron*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB34666.](https://floradobrasil.jbrj.gov.br/FB34666) Acesso em 11 de abril de 2023.

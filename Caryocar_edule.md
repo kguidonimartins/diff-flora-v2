@@ -2,6 +2,10 @@
 
 **Autores(as)**: Eduardo Amorim, Bruno R. Ribeiro, Karlo Guidoni e Jair Quintino de Faria
 
+![Fonte: Geovane Siqueira](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Geovane Siqueira*
+
 **Nomes populares**: pequiá, pequi-vinagreiro, pequi-preto, pequi da mata, piqui, angélica
 
 **Filo**: Tracheophyta
@@ -34,7 +38,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -54,8 +58,8 @@ Recomenda-se a condução de estudos abrangentes sobre o tamanho da população,
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Lorenzi, H. (2009). *Árvores brasileiras: manual de identificação e cultivo de plantas arbóreas nativas do Brasil*. 1ª edição. Instituto Plantarum de Estudos da Flora, Nova Odessa, SP, Brasil.
+Lorenzi, H. (2009). *Árvores brasileiras: manual de identificação e cultivo de plantas arbóreas nativas do Brasil, Volume 3*. 1º edn.  Instituto Plantarum.
 
-Prance, G.T. & Pirani, J.R. (2023). [Caryocaraceae in Flora e Funga do Brasil](<https://floradobrasil.jbrj.gov.br/FB6689>). *Jardim Botânico do Rio de Janeiro*.
+Prance, G.T. & Pirani, J.R. (2023). *Caryocaraceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB6689.](https://floradobrasil.jbrj.gov.br/FB6689) Acesso em 11 de abril de 2023.
 
 Prance, G.T. & Silva, M.F. (1973). Caryocaraceae. *Flora Neotropica*, 1--75.

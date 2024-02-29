@@ -46,7 +46,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -79,14 +79,14 @@ Jesus, R.M. & Rolim, S.G. (2005). Fitossociologia da Mata Atlântica de Tabuleir
 
 Paula, A., Lopes, W.P. & Silva, A.F. (2009). Florística e estrutura de fragmentos florestais no entorno da lagoa Juparanã, Linhares, Espírito Santo, Brasil. *Boletim do Museu de Biologia Mello Leitão. Nova Série*, 26, 5--23.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Rolim, S.G., Peixoto, A.L., Pereira, O.J., Araujo, D.S.D., Nadruz, M., Siqueira, G., *et al.* (2016). Angiospermas da Reserva Natural Vale, na Floresta Atlântica do Norte do Espírito Santo. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs.  Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p.  167--230.
 
 Sarnaglia-Júnior, V.B., Zani, L.B., Gomes, J.M.L. & Thomaz, L.D. (2014).  Estrutura e composição florística de um trecho de Mata Atlântica com Caesalpinia echinata Lam. (Pau Brasil). *Boletim do Museu de Biologia Mello Leitão*, 34, 39--62.
 
-Shimizu, G.H., Souza, L.F., Gonçalves, D.J.P. & França, F. (2023).  [Vochysiaceae](https://floradobrasil.jbrj.gov.br/FB15291). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Shimizu, G.H., Souza, L.F., Gonçalves, D.J.P. & França, F. (2023).  *Vochysiaceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB15296.](https://floradobrasil.jbrj.gov.br/FB15296) Acesso em 11 de abril de 2023.
 
 Vianna, M.C. & Pereira, J.F. (2002). Novitates Vochysiae - I. *Boletim do Museu Nacional*, 117, 1--11.

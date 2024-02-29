@@ -36,7 +36,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: NT (Brasil 2022)
 
@@ -54,7 +54,7 @@ Recomenda-se a condução de estudos abrangentes sobre o tamanho da população,
 
 ## REFERÊNCIAS
 
-Almeida, R.F. (2023). [Bunchosia in Flora e Funga do Brasil](<https://floradobrasil.jbrj.gov.br/FB8824>). *Jardim Botânico do Rio de Janeiro*.
+Almeida, R.F. (2023). *Bunchosia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB8824.](https://floradobrasil.jbrj.gov.br/FB8824) Acesso em 11 de abril de 2023.
 
 Anderson, W.R. (1987). Notes on neotropical Malpighiaceae-III.  *Contributions from the University of Michigan Herbarium*, 16, 55--108.
 

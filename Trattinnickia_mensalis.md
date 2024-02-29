@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e Jair Quintino de Faria
 
+![Fonte: Geovane Siqueira - iNaturalist](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Geovane Siqueira - iNaturalist*
+
 **Nomes populares**: amescla-tapina, amescla (Flora e Funga do Brasil 2023)
 
 **Filo**: Tracheophyta
@@ -41,7 +45,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -65,9 +69,9 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Daly, D.C. (1999). Notes on Trattinnickia, including a synopsis in Eastern Brazil's Atlantic Forest Complex. Studies in Neotropical Burseraceae IX. *Kew Bulletin*, 54, 129--137.
 
-Flora e Funga do Brasil. (2023). [Jardim Botânico do Rio de Janeiro](http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaNovaConsulta.do#CondicaoTaxonCP).
+Flora e Funga do Brasil. (2023). *Burseraceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB6607.](https://floradobrasil.jbrj.gov.br/FB6607) Acesso em 11 de abril de 2023.
 
-Kierulff, M.C.M., Avelar, L.H.S., Santos Ferreira, M.E. dos, Povoa, K.F.  & Bérnils, R.S. (2014). Reserva Natural Vale - História e aspectos físicos. *Ciência & Ambiente*, 49, 7--40.
+Kierulff, M.C.M., Avelar, L.H.S., Ferreira, M.E.S., Povoa, K.F. & Bérnils, R.S. (2014). Reserva Natural Vale - História e aspectos físicos. *Ciência & Ambiente*, 49, 7--40.
 
 Peixoto, A.L. & Jesus, R.M. (2016). Reserva Natural Vale: memórias de 65 anos de conservação. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T.  & Srbek-Araujo, A.C.). Editora Rupestre, p. 21--29.
 
@@ -75,4 +79,4 @@ Peixoto, A.L., Silva, M.I., Pereira, O.J., Simonelli, M., Jesus, R.M. & Rolim, S
 
 Rolim, S.G., Peixoto, A.L., Pereira, O.J., Araujo, D.S.D., Nadruz, M., Siqueira, G., *et al.* (2016). Angiospermas da Reserva Natural Vale, na Floresta Atlântica do Norte do Espírito Santo. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs.  Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p.  167--230.
 
-Simonelli, M., Souza, A.L. & Peixoto, A.L. (2014). Floristic composition and structure of the tree component of a Muçununga Forest in the Linhares Forest Reserve, Espírito Santo, Brazil. Em: *The Atlantic Coastal Forest of Northeastern Brazil* (org. Thomas, Wm.W.). The New York Botanical Garden Press, p. 345--364.
+Simonelli, M., Souza, A.L. & Peixoto, A.L. (2014). Floristic composition and structure of the tree component of a Muçununga Forest in the Linhares Forest Reserve, Espírito Santo, Brazil. Em: *The Atlantic Coastal Forest of Northeastern Brazil* (org. Thomas, W.W.). The New York Botanical Garden Press, p. 345--364.

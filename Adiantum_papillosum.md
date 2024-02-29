@@ -37,11 +37,11 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
-**PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Não consta
 
@@ -57,8 +57,8 @@ Pesquisas por estimativas populacionais, censo e número de indivíduos se fazem
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
 
-Prado, J. & Hirai, R.Y. (2023). [Adiantum in Flora e Funga do Brasil](<https://floradobrasil.jbrj.gov.br/FB91839>). *Jardim Botânico do Rio de Janeiro*.
+Prado, J. & Hirai, R.Y. (2023). *Adiantum*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB91839.](https://floradobrasil.jbrj.gov.br/FB91839) Acesso em 11 de abril de 2023.
 
 Winter, S.L.S., Sylvestre, L.S. & Prado, J. (2011). [O gênero Adiantum (Pteridaceae) no estado do Rio de Janeiro, Brasil](https://doi.org/10.1590/2175-7860201162312). *Rodriguésia*, 62, 663--681.

@@ -45,7 +45,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: VU (Brasil 2022)
 
@@ -80,9 +80,9 @@ Paula, A., Lopes, W.P. & Silva, A.F. (2009). Florística e estrutura de fragment
 
 Queiroz, L.P., Lewis, G.P. & Allkin, R. (1999). A revision of the genus Moldenhawera Schrad. (Leguminosae-Caesalpinioideae). *Kew Bulletin*, 54, 817--852.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Rolim, S.G. & Piotto, D. (2018). *Silvicultura e tecnologia de espécies da Mata Atlântica*. Editora Rona.
 
@@ -90,6 +90,6 @@ Sarnaglia-Júnior, V.B., Zani, L.B., Gomes, J.M.L. & Thomaz, L.D. (2014).  Estru
 
 Siqueira, G.S., Kierulff, M.C.M. & Alves-Araújo, A. (2014). Florística das plantas vasculares da Reserva Natural Vale, Linhares, Espírito Santo, Brasil. *Ciência & Ambiente*, 49, 67--129.
 
-Vivas, C.V. & Queiroz, L.P. (2023).  [Moldenhawera](https://floradobrasil.jbrj.gov.br/FB103586). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Vivas, C.V. & Queiroz, L.P. (2023). *Moldenhawera*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB103586.](https://floradobrasil.jbrj.gov.br/FB103586) Acesso em 11 de abril de 2023.
 
-Zani, L.B., Junior, V.B.S., Gomes, J.M.L. & Thomaz, L.D. (2012).  [Estrutura de um fragmento de Floresta Atlântica em regeneração com ocorrência de Caesalpinia echinata Lam.  (pau-brasil)](https://doi.org/10.5007/2175-7925.2012v25n4p75).  *Biotemas*, 25, 75--89.
+Zani, L.B., Sarnaglia Junior, V.B., Gomes, J.M.L. & Thomaz, L.D. (2012).  [Estrutura de um fragmento de Floresta Atlântica em regeneração com ocorrência de Caesalpinia echinata Lam.  (pau-brasil)](https://doi.org/10.5007/2175-7925.2012v25n4p75).  *Biotemas*, 25, 75--89.

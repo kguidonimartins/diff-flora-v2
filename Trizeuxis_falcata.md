@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e Luciano Zandoná
 
+![Fonte: Luciano Zandoná](media/rId20.jpg){width="6.486111111111111in" height="4.324073709536308in"}
+
+Fonte: *Luciano Zandoná*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -40,7 +44,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -60,11 +64,11 @@ Pesquisas sobre tamanho, distribuição e tendências da população, ecologia d
 
 ## REFERÊNCIAS
 
-Adachi, S.A. (2009). O orquidário do Jardim Botânico do IBB como fonte de atividades de Educação Ambiental, 1--26.
+Adachi, S.A. (2009). *O orquidário do Jardim Botânico do IBB como fonte de atividades de Educação Ambiental*. Trabalho de conclusão (bacharelado -- Ciências Biológicas) -- Universidade Estadual Paulista, Instituto de Biociências de Botucatu.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Ferreira, A.W.C., Lima, M.I.S. & Pansarin, E.R. (2010). Orchidaceae na região central de São Paulo, Brasil. *Rodriguésia*, 61, 243--259.
+Ferreira, A.W.C., Lima, M.I.S. & Pansarin, E.R. (2010). [Orchidaceae na região central de São Paulo, Brasil](https://doi.org/10.1590/2175-7860201061208). *Rodriguésia*, 61, 243--259.
 
 Kenny, J. (2006). *Flowers of Trinidad Tobago*. Prospect Press.
 
@@ -76,28 +80,28 @@ Ledezma, E., Ramírez, G. & Pino-Benítez, N. (2006). Forest Orchids of the Choc
 
 Leopardi, C. & Cumana, L.J. (2009). Clave para géneros y especies de Orchidaceae del Estado Sucre, Venezuela. *Saber. Revista Multidisciplinaria del Consejo de Investigación de la Universidad de Oriente*, 21, 215--228.
 
-Mancinelli, W.S. & Esemann-Quadros, K. (2016). Orchidaceae Flora of Joinville, Santa Catarina, Brazil. *Acta Biológica Catarinense*, 3, 36--48.
+Mancinelli, W.S. & Esemann-Quadros, K. (2016). [Orchidaceae Flora of Joinville, Santa Catarina, Brazil](https://doi.org/10.21726/abc.v3i1.428). *Acta Biológica Catarinense*, 3, 36--48.
 
-Pansarin, L.M., Pansarin, E.R., Alves-Dos-Santos, I. & Teixeira, S.P.  (2021). [So small and so rich: diversity of floral resources in miniature Oncidiinae (Orchidaceae) and their relation to pollinators](https://doi.org/10.1111/plb.13221). *Plant Biology*, 23, 259--266.
+Pansarin, L.M., Pansarin, E.R., Alves-dos-Santos, I. & Teixeira, S.P.  (2021). [So small and so rich: diversity of floral resources in miniature Oncidiinae (Orchidaceae) and their relation to pollinators](https://doi.org/10.1111/plb.13221). *Plant Biology*, 23, 259--266.
 
 Peixoto, A.L. & Jesus, R.M. (2016). Reserva Natural Vale: memórias de 65 anos de conservação. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T.  & Srbek-Araujo, A.C.). Editora Rupestre, p. 21--29.
 
-Peixoto, T.R. (2018). Florística e diversidade em afloramentos calcários na Mata Atlântica.
+Peixoto, T.R. (2018). *Florística e diversidade em afloramentos calcários na Mata Atlântica*. Dissertação (mestrado) - Universidade Estadual Paulista, Instituto de Biociências de Rio Claro.
 
 Poltz, K. & Zotz, G. (2011). [Vascular epiphytes on isolated pasture trees along a rainfall gradient in the lowlands of Panama](https://doi.org/10.1111/j.1744-7429.2010.00669.x). *Biotropica*, 43, 165--172.
 
 Quirós, J.F.M. (2005). *Orquídeas, cactus y bromelias del bosque seco - Costa Rica*. 2 ed. Instituto Nacional de Biodiversidad, INBio.
 
-Rebouças, N.C., Sila Aivy, A.F. da, Sousa, L.M., Silva Alencar, C.L. da, Silva, A.L. & Loiola, M.I.B. (2021). Vascular epiphytes (Spermatophytes) of the Baturité Massif, Ceará, Northeast Brazil. *Revista Brasileira de Geografia Física*, 14, 1748--1766.
+Rebouças, N.C., Aivy, A.F.S., Sousa, L.M., Alencar, C.L.S., Silva, A.L.  & Loiola, M.I.B. (2021). Vascular epiphytes (Spermatophytes) of the Baturité Massif, Ceará, Northeast Brazil. *Revista Brasileira de Geografia Física*, 14, 1748--1766.
 
 Rolim, S.G., Sylvestre, L., Franken, E.P. & Coelho, M.A.N. (2016).  Epífitas vasculares nas fisionomias vegetais da Reserva Natural Vale, Espírito Santo. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T.  & Srbek-Araujo, A.C.). Editora Rupestre, p. 269--281.
 
 Sanín, D., Sierra-Giraldo, J.A., Posada-Herrera, J.M. & Ramírez-G, J.  (2014). Inventario florístico de los bosques de La Esmeralda, margen del Río Cauca (Chinchiná, Caldas, Colombia). *Boletín Científico. Centro de Museus. Museo de Historia Natural*, 18, 17--45.
 
-Sasaki, D., Zappi, D. & Milliken, W. (2008). Vegetação do Parque Estadual Cristalino, Novo Mundo - MT.
+Sasaki, D., Zappi, D. & Milliken, W. (2008). *Vegetação do Parque Estadual Cristalino, Novo Mundo - MT*. Programa Flora Cristalino.
 
 Schweinfurth, C. (1946). Orchidaceae Peruvianae VI. *Botanical Museum Leaflets, Harvard University*, 12, 185--209.
 
-Siqueira, C.E., Zanin, A. & Neto, L.M. (2014). [Orchidaceae in Santa Catarina: update, geographic distribution and conservation](https://doi.org/10.15560/10.6.1452). *Check List*, 10, 1452--1478.
+Siqueira, C.E., Zanin, A. & Menini Neto, L. (2014). [Orchidaceae in Santa Catarina: update, geographic distribution and conservation](https://doi.org/10.15560/10.6.1452). *Check List*, 10, 1452--1478.
 
-Smidt, E.C. (2023).  [Trizeuxis](<https://floradobrasil.jbrj.gov.br/FB12344). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Smidt, E.C. (2023). *Trizeuxis*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB12344.](https://floradobrasil.jbrj.gov.br/FB12344) Acesso em 11 de abril de 2023.

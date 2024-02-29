@@ -45,7 +45,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -74,20 +74,20 @@ Barros, N., Lobão, A.Q. & Peixoto, A.L. (2022). [Flora of Rio de Janeiro: Chrys
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Carvalho, M.G. & Costa, P.M. (2008). Outros constituintes isolados de Licania arianeae (Chrysobalanaceae). *Revista Brasileira de Farmacognosia*, 19, 290--293.
+Carvalho, M.G., Cândido, L.F.O., Costa, P.M., Nascimento, I.A. & Braz-Filho, R. (2008). [Triterpenes acids and saponins isolated from Licania arianeae Prance (Chrysobalanaceae)](https://doi.org/10.1007/s11418-008-0241-4). *Journal of Natural Medicines*, 62, 360--361.
 
-Carvalho, M.G., Oliveira Cândido, L.F. de, Costa, P.M., Nascimento, I.A.  & Braz-Filho, R. (2008). [Triterpenes acids and saponins isolated from Licania arianeae Prance (Chrysobalanaceae)](https://doi.org/10.1007/s11418-008-0241-4). *Journal of Natural Medicines*, 62, 360--361.
+Carvalho, M.G., Cândido, L.F.O., Costa, P.M. & Rumjanek, V.M. (2005).  [Chromones from Licania arianeae (Chrysobalanaceae)](https://doi.org/10.1080/14786410410001730265).  *Natural Product Research*, 19, 7--12.
 
-Carvalho, M.G., Oliveira Cândido, L.F. de, Costa, P.M. & Rumjanek, V.M.  (2005). [Chromones from Licania arianeae (Chrysobalanaceae)](https://doi.org/10.1080/14786410410001730265).  *Natural Product Research*, 19, 7--12.
+Carvalho, M.G. & Costa, P.M. (2008). [Outros constituintes isolados de Licania arianeae (Chrysobalanaceae)](https://doi.org/10.1590/S0102-695X2009000200018).  *Revista Brasileira de Farmacognosia*, 19, 290--293.
 
-Giaretta, A., Menezes, L.F.T.D. & Pereira, O.J. (2013). Structure and floristic pattern of a coastal dunes in southeastern Brazil. *Acta Botanica Brasilica*, 27, 87--107.
+Giaretta, A., Menezes, L.F.T. & Pereira, O.J. (2013). Structure and floristic pattern of a coastal dunes in southeastern Brazil. *Acta Botanica Brasilica*, 27, 87--107.
 
 Paula, A., Lopes, W.P. & Silva, A.F. (2009). Florística e estrutura de fragmentos florestais no entorno da lagoa Juparanã, Linhares, Espírito Santo, Brasil. *Boletim do Museu de Biologia Mello Leitão. Nova Série*, 26, 5--23.
 
 Prance, G.T. (1989). Chrysobalanaceae. *Flora Neotropica*, 9, 1--267.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
-Sothers, C.A. & Prance, G.T. (2023).  [Licania](https://floradobrasil.jbrj.gov.br/FB34712). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Sothers, C.A. & Prance, G.T. (2023). *Licania*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB34712.](https://floradobrasil.jbrj.gov.br/FB34712) Acesso em 11 de abril de 2023.

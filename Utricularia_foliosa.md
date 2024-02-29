@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e André Moreira
 
+![Fonte: James K. Wetterer - iNaturalist](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *James K. Wetterer - iNaturalist*
+
 **Nomes populares**: boca-de-leão-do-banhado, violeta-do-brejo (Taylor 1980)
 
 **Filo**: Tracheophyta
@@ -39,7 +43,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022)
 
@@ -59,20 +63,20 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Corrêa, M.A. & Mamede, M.C.H. (2002). Lentibulariaceae. Em: *Flora Fanerogâmica do Estado de São Paulo* (orgs. Graças Lapa Wanderley, M.  das, Shepherd, G.J., Giulietti, A.M., Melhem, T.S., Bittrich, V. & Kameyama, C.). Instituto de Botânica, p. 141--154.
+Corrêa, M.A. & Mamede, M.C.H. (2002). Lentibulariaceae. Em: *Flora Fanerogâmica do Estado de São Paulo* (orgs. Wanderley, M.G.L., Shepherd, G.J., Giulietti, A.M., Melhem, T.S., Bittrich, V. & Kameyama, C.).  Instituto de Botânica, p. 141--154.
 
-Guedes, F.M., Gonella, P.M., Dominguez, Y., Moreira, A.D.R., Silva, S.R., Diaz, Y.C.A., *et al.* (2023).  [Utricularia](https://floradobrasil.jbrj.gov.br/FB8576). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Guedes, F.M., Gonella, P.M., Dominguez, Y., Moreira, A.D.R., Silva, S.R., Diaz, Y.C.A., *et al.* (2023). *Utricularia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB8576.](https://floradobrasil.jbrj.gov.br/FB8576) Acesso em 11 de abril de 2023.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Płachno, B.J., Stpiczyńska, M., Adamec, L., Miranda, V.F.O. & Świątek, P. (2018). [Nectar trichome structure of aquatic bladderworts from the section Utricularia (Lentibulariaceae) with observation of flower visitors and pollinators](https://doi.org/10.1007/s00709-018-1216-2).  *Protoplasma*, 255, 1053--1064.
 
-Rovani, A.F.B. (2009). Composição química da macrófita aquática Utricularia foliosa em um rio de águas brancas e um rio de águas pretas da bacia do rio Itanhaém, SP, 1--24.
+Rovani, A.F.B. (2009). *Composição química da macrófita aquática Utricularia foliosa em um rio de águas brancas e um rio de águas pretas da bacia do rio Itanhaém, SP*. Trabalho de conclusão de curso (Licenciatura e Bacharelado - Ciêncas Biológcas) - Universidade Estadual Paulista, Instituto de Biociências de Rio Claro.
 
 Sanabria-Aranda, L., González-Bermúdez, A., Torres, N.N., Guisande, C., Manjarrés-Hernández, A., Valoyes-Valois, V., *et al.* (2006). [Predation by the tropical plant Utricularia foliosa](https://doi.org/10.1111/j.1365-2427.2006.01638.x). *Freshwater Biology*, 51, 1999--2008.
 
 Santos, T.R. & Ferragut, C. (2018). [Changes in the taxonomic structure of periphytic algae on a free-floating macrophyte (Utricularia foliosa L.) in relation to macrophyte richness over seasons](https://doi.org/10.1590/0102-33062018abb0031). *Acta Botanica Brasilica*, 32, 595--601.
 
-Santos, T.R., Ferragut, C. & Mattos Bicudo, C.E. de. (2018).  [Relationship among carnivorous macrophyte Utricularia foliosa L. and species composition and life forms of periphytic algae community](https://doi.org/10.1590/s2179-975X5217). *Acta Limnologica Brasiliensia*, 30, 1--10.
+Santos, T.R., Ferragut, C. & Bicudo, C.E.M. (2018). [Relationship among carnivorous macrophyte Utricularia foliosa L. and species composition and life forms of periphytic algae community](https://doi.org/10.1590/s2179-975X5217). *Acta Limnologica Brasiliensia*, 30, 1--10.
 
 Taylor, P.G. (1980). Lentibulariáceas. Em: *Flora Ilustrada Catarinense, Parte 1: as plantas* (orgs. Reitz, P.R. & Reis, A.). Herbário Barbosa Rodrigues, p. 1--52.

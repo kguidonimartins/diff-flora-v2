@@ -35,11 +35,11 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: CR (Brasil 2022)
 
-**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (Instituto Estadual de Florestas 2023).
+**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (IEF 2023).
 
 **CITES**: Não consta
 
@@ -55,8 +55,8 @@ Recomendam-se estudos populacionais como tendências e sensos, aprofundamentos s
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Dutilh, J.H.A., Campos-Rocha, A., Garcia, N., Streher, N.S., Semir, J.(in.memoriam)., Meerow, A.W., *et al.* (2023).  [Griffinia](https://floradobrasil.jbrj.gov.br/FB4340). *Flora e Funga do Brasil*.
+Dutilh, J.H.A., Campos-Rocha, A., Garcia, N., Streher, N.S., Semir, J.(in.memoriam)., Meerow, A.W., *et al.* (2023). *Griffinia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB4337.](https://floradobrasil.jbrj.gov.br/FB4337) Acesso em 11 de abril de 2023.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
 Nichio-Amaral, R., Campos-Rocha, A. & Alves-Araújo, A. (2020). [Flora do Espírito Santo: Amaryllidaceae](https://doi.org/10.1590/2175-7860202071143).  *Rodriguésia*, 71, e02622018.

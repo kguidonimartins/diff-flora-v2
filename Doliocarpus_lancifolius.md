@@ -2,6 +2,10 @@
 
 **Autores(as)**: Eduardo Amorim, Monira Bruno Bicalho, Karlo Guidoni e Jair Quintino de Faria
 
+![Fonte: Geovane Siqueira - BioDiversity4All](media/rId20.jpg){width="5.208333333333333in" height="6.944444444444445in"}
+
+Fonte: *Geovane Siqueira - BioDiversity4All*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -35,7 +39,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -55,8 +59,8 @@ Recomenda-se uma pesquisa abrangente sobre a espécie ameaçada, priorizando a a
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-CNCFlora. (2012). Doliocarpus lancifolius.  *http://cncflora.jbrj.gov.br/portal/pt-br/profile/Doliocarpus lancifolius*.
+CNCFlora. (2012). *Doliocarpus lancifolius*. *Lista Vermelha da flora brasileira versão 2012.2 Centro Nacional de Conservação da Flora*.  Disponível em: [http://cncflora.jbrj.gov.br/portal/pt-br/profile/Doliocarpus lancifolius.](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Doliocarpus lancifolius) Acesso em 11 de abril de 2023.
 
-Flora e Funga do Brasil. (2023). [Doliocarpus in Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB7360>.).
+Flora e Funga do Brasil. (2023). *Doliocarpus*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB7360.](https://floradobrasil.jbrj.gov.br/FB7360) Acesso em 11 de abril de 2023.
 
-Kierulff, M.C.M., Silva Avelar, L.H. da, Santos Ferreira, M.E. dos, Povoa, K.F. & Bérnils, R.S. (2014). Reserva Natural Vale: história e aspectos físicos. *Ciência & Ambiente*, 49, 1--17.
+Kierulff, M.C.M., Avelar, L.H.S., Ferreira, M.E.S., Povoa, K.F. & Bérnils, R.S. (2014). Reserva Natural Vale - História e aspectos físicos. *Ciência & Ambiente*, 49, 7--40.

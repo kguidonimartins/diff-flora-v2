@@ -2,6 +2,10 @@
 
 **Autores(as)**: Eduardo Amorim, Monira Bruno Bicalho, Karlo Guidoni e André Moreira
 
+![Fonte: Gabriel Bonfa](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Gabriel Bonfa*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -12,7 +16,7 @@
 
 **Família**: Rutaceae
 
-**Notas taxonômicas**: Caracterizada por flores amarelas e folhas unifolioladas lustrosas e venosas (Pirani & Groppo 2023).
+**Notas taxonômicas**: Caracterizada por flores amarelas e folhas unifolioladas lustrosas e venosas (Pirani & Groppo 2023a).
 
 ## AVALIAÇÃO DE RISCO DE EXTINÇÃO
 
@@ -25,11 +29,11 @@ Doce, portanto, a categoria aplicada é mantida.
 
 ## INFORMAÇÕES GERAIS
 
-Árvores ou arbustos, habitando do interior de florestas pluviais. Possui floração entre os meses de abril e dezembro, e frutificação em janeiro, março e abril (Pirani & Groppo 2023).
+Árvores ou arbustos, habitando do interior de florestas pluviais. Possui floração entre os meses de abril e dezembro, e frutificação em janeiro, março e abril (Pirani & Groppo 2023b).
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-Espécie endêmica da Mata Atlântica brasileira, encontrada somente no estado do Espírito Santo, conhecida somente para a localidade tipo, na região do município de Linhares (Pirani & Groppo 2023).
+Espécie endêmica da Mata Atlântica brasileira, encontrada somente no estado do Espírito Santo, conhecida somente para a localidade tipo, na região do município de Linhares (Pirani & Groppo 2023b).
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -37,11 +41,11 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: CR (Brasil 2022)
 
-**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (Instituto Estadual de Florestas 2023).
+**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (IEF 2023).
 
 **CITES**: Não consta
 
@@ -57,6 +61,8 @@ Pesquisas sobre tamanho e a tendência populacional, história de vida e ecologi
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
-Pirani, J.R. & Groppo, M. (2023). [Conchocarpus Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB470>.).
+Pirani, J.R. & Groppo, M. (2023b). *Rutaceae*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB816.](https://floradobrasil.jbrj.gov.br/FB816) Acesso em 11 de abril de 2023.
+
+Pirani, J.R. & Groppo, M. (2023a). *Rutaceae*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB438.](https://floradobrasil.jbrj.gov.br/FB438) Acesso em 11 de abril de 2023.

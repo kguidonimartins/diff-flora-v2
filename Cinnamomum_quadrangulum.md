@@ -34,12 +34,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Itacolo
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: VU (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2008)
+-   Nacional: VU (Brasil 2022) -   Minas Gerais: VU (COPAM 2008)
 
-**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (Instituto Estadual de Florestas 2023) e beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021)
+**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (IEF 2023) e beneficiada no PAT Espinhaço Mineiro (IEF 2021)
 
 **CITES**: Não consta
 
@@ -55,12 +54,12 @@ Pesquisas sobre tamanho e a tendência populacional, história de vida e ecologi
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2008). Deliberação no 367, de 15 de dezembro de 2008: Aprova a Lista de Espécies Ameaçadas de Extinção da Flora do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais, Belo Horizonte.
+COPAM. (2008). Deliberação no 367, de 15 de dezembro de 2008: Aprova a Lista de Espécies Ameaçadas de Extinção da Flora do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais, Belo Horizonte.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
 Jacobi, C.M. & Carmo, F.F.D. (2011). [Life-forms, pollination and seed dispersal syndromes in plant communities on ironstone outcrops, SE Brazil](https://doi.org/10.1590/S0102-33062011000200016). *Acta Botanica Brasilica*, 25, 395--412.
 
-Lorea-Hernández, F.Gerardo. (1996). [*A systematic revision of the neotropical species of Cinnamomum Schaeffer (Lauraceae)*](https://www.biodiversitylibrary.org/item/42071) .  University of Missouri-Saint Louis.
+Lorea-Hernández, F.G. (1996). [*A systematic revision of the neotropical species of Cinnamomum Schaeffer (Lauraceae)*](https://www.biodiversitylibrary.org/item/42071).  University of Missouri-Saint Louis.

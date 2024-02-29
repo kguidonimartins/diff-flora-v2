@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e Luciano Zandoná
 
+![Fonte: Flávio Mendes - iNaturalist](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Flávio Mendes - iNaturalist*
+
 **Nomes populares**: orelha-de-burro (Meneguzzo 2023)
 
 **Filo**: Tracheophyta
@@ -41,7 +45,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -65,13 +69,13 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Carneiro-Silva, M.Q., Koch, A.K., Viana, P.L. & Ilkiu-Borges, A.L.  (2015). [Oncidiinae (Orchidaceae) na volta grande do Rio Xingu, Pará, Brasil](https://doi.org/10.1590/1519-6984.01014BM). *Brazilian Journal of Biology*, 75, S222--S237.
 
-Cruz, A.C.R. (2017). Epífitas Vasculares da Ilha Grande, Angra dos Reis, RJ, 1--133.
+Cruz, A.C.R. (2017). [*Epífitas Vasculares da Ilha Grande, Angra dos Reis, RJ*](https://tede.ufrrj.br/jspui/handle/jspui/2780). Dissertação (Mestrado em Ciências Ambientais e Florestais) - Instituto de Florestas, Universidade Federal Rural do Rio de Janeiro.
 
-Fontoura, T., Rocca, M.A., Schilling, A.C. & Reinert, F. (2009).  Epífitas da floresta seca da Reserva Ecológica Estadual de Jacarepiá, sudeste do Brasil: relações com a comunidade arbórea. *Rodriguésia*, 60, 171--185.
+Fontoura, T., Rocca, M.A., Schilling, A.C. & Reinert, F. (2009).  [Epífitas da floresta seca da Reserva Ecológica Estadual de Jacarepiá, sudeste do Brasil: relações com a comunidade arbórea](https://doi.org/10.1590/2175-7860200960109). *Rodriguésia*, 60, 171--185.
 
 Gonçalves, J.M., Koch, A.K., Tavares, B.L., Silva, F.B. & Moura, O.S.  (2021). Cinco novos registros de Orchidaceae A.Juss. para o estado de Rondônia, Brasil. *South American Journal of Basic Education, Technical and Technological*, 8, 59--69.
 
-Meneguzzo, T.E.C. (2023).  [Trichocentrum](https://floradobrasil.jbrj.gov.br/FB12329). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Meneguzzo, T.E.C. (2023). *Trichocentrum*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB12329.](https://floradobrasil.jbrj.gov.br/FB12329) Acesso em 11 de abril de 2023.
 
 Pupulin, F. (1995). A revision of the genus Trichocentrum (Orchidaceae: Oncidiinae). *Lindleyana*, 10, 183--210.
 
@@ -79,4 +83,4 @@ Rolim, S.G., Peixoto, A.L., Pereira, O.J., Araujo, D.S.D., Nadruz, M., Siqueira,
 
 Rolim, S.G., Sylvestre, L., Franken, E.P. & Coelho, M.A.N. (2016b).  Epífitas vasculares nas fisionomias vegetais da Reserva Natural Vale, Espírito Santo. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T.  & Srbek-Araujo, A.C.). Editora Rupestre, p. 269--281.
 
-Silvera, A.P., Loiola, M.I.B., Santos Gomes, V. dos, Lima-Verde, L.W., Oliveira, T.S., Silva, E.F., *et al.* (2020). [Flora of Baturite, Ceará: a wet island in the Brazilian Semiarid](https://doi.org/10.1590/2179-8087.032018). *Floresta e Ambiente*, 27, 1--22.
+Silvera, A.P., Loiola, M.I.B., Gomes, V.S., Lima-Verde, L.W., Oliveira, T.S., Silva, E.F., *et al.* (2020). [Flora of Baturite, Ceará: a wet island in the Brazilian Semiarid](https://doi.org/10.1590/2179-8087.032018). *Floresta e Ambiente*, 27, 1--22.

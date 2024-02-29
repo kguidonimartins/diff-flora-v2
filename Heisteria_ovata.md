@@ -2,6 +2,10 @@
 
 **Autores(as)**: Eduardo Amorim, Monira Bruno Bicalho, Karlo Guidoni e André Moreira
 
+![Fonte: Mauricio Mercadante - BioDiversity4All](media/rId20.jpg){width="6.486111111111111in" height="4.877250656167979in"}
+
+Fonte: *Mauricio Mercadante - BioDiversity4All*
+
 **Nomes populares**: itaubarana
 
 **Filo**: Tracheophyta
@@ -29,7 +33,7 @@ Arbustos ou árvores, com até 6m de altura, ocorrendo em múltiplas fitofisiono
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-Espécie não endêmica do Brasil. No país, ocorre nos domínios fitogeográficos da Amazônia, Caatinga, Cerrado e Mata Atlântica; e possui registros estados nas regiões Norte, (Acre, Amazonas, Amapá, Pará, Rondônia e Tocantins), Nordeste (Bahia, Ceará, Maranhão e Piauí) e Centro-Oeste (Goiás e Mato Grosso), e restrita ao estado de Minas Gerais na região Sudeste (Costa-Lima & Chagas 2023). Além disso, essa espécie ocorre naturalmente na Bolívia, Colômbia, Guiana Francesa, Guiana, Peru, Suriname e Venezuela (POWO 2019).
+Espécie não endêmica do Brasil. No país, ocorre nos domínios fitogeográficos da Amazônia, Caatinga, Cerrado e Mata Atlântica; e possui registros estados nas regiões Norte, (Acre, Amazonas, Amapá, Pará, Rondônia e Tocantins), Nordeste (Bahia, Ceará, Maranhão e Piauí) e Centro-Oeste (Goiás e Mato Grosso), e restrita ao estado de Minas Gerais na região Sudeste (Costa-Lima & Chagas 2023). Além disso, essa espécie ocorre naturalmente na Bolívia, Colômbia, Guiana Francesa, Guiana, Peru, Suriname e Venezuela (POWO 2023).
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -37,10 +41,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: LC (IUCN 2023) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2008)
+-   Global: LC (IUCN 2023) -   Minas Gerais: VU (COPAM 2008)
 
 **PATs/PANs**: Não disponível
 
@@ -56,14 +59,14 @@ Recomenda-se uma pesquisas abrangentes sobre a real distribuição e tendências
 
 ## REFERÊNCIAS
 
-Conselho Estadual de Política Ambiental - COPAM. (2008). Deliberação no 367, de 15 de dezembro de 2008: Aprova a Lista de Espécies Ameaçadas de Extinção da Flora do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais, Belo Horizonte.
+COPAM. (2008). Deliberação no 367, de 15 de dezembro de 2008: Aprova a Lista de Espécies Ameaçadas de Extinção da Flora do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais, Belo Horizonte.
 
-Costa-Lima, J.L. & Chagas, E.C.O. (2023). [Erythropalaceae in Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB10962>.).
+Costa-Lima, J.L. & Chagas, E.C.O. (2023). *Erythropalaceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB10962.](https://floradobrasil.jbrj.gov.br/FB10962) Acesso em 11 de abril de 2023.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Lucena, D.S., Pessoa, E. & Alves, M. (2021). [Olacaceae and Schoepfiaceae in eastern Northeast Brazil](https://doi.org/10.1590/2175-7860202172044). *Rodriguésia*, 72, e01762019.
 
 Meirelles, J. & Fernandes, A.J. (2017). [Flora das cangas da Serra dos Carajás, Pará, Brasil: Olacaceae](https://doi.org/10.1590/2175-7860201768340). *Rodriguésia*, 68, 1053--1057.
 
-POWO. (2019). [Plants of the World Online](http://www.plantsoftheworldonline.org/). *Facilitated by the Royal Botanic Gardens, Kew*.
+POWO. (2023). *Plants of the World Online*. *Facilitated by the Royal Botanic Gardens, Kew*. Disponível em: [http://www.plantsoftheworldonline.org/.](http://www.plantsoftheworldonline.org/) Acesso em 11 de abril de 2023.

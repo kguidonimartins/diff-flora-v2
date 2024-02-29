@@ -42,11 +42,11 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: EN (IUCN 2023) -   Nacional: CR (Brasil 2022)
 
-**PATs/PANs**: Espécie beneficiada no PAT Capixaba-Gerais (Instituto Estadual de Florestas 2023).
+**PATs/PANs**: Espécie beneficiada no PAT Capixaba-Gerais (IEF 2023).
 
 **CITES**: Não consta
 
@@ -68,7 +68,7 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 ## REFERÊNCIAS
 
-Alves-Araújo, A. & Nichio-Amaral, R.N. (2023).  [Pouteria](https://floradobrasil.jbrj.gov.br/FB14492). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Alves-Araújo, A. & Nichio-Amaral, R. (2023). *Pouteria*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB14492.](https://floradobrasil.jbrj.gov.br/FB14492) Acesso em 11 de abril de 2023.
 
 Alves-Araújo, A., Swenson, U. & Alves, M. (2014). [A taxonomic survey of Pouteria (Sapotaceae) from the northern portion of the Atlantic Rainforest of Brazil](https://doi.org/10.1600/036364414X681428).  *Systematic Botany*, 39, 915--938.
 
@@ -76,9 +76,9 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Chichorro, J.F., Resende, J.L.P. & Leite, H.G. (2003). Equações de volume e de taper para quantificar multiprodutos da madeira em Floresta Atlântica. *Revista Árvore*, 27, 799--809.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Jesus, R.M., Garcia, A. & Tsutsumi, I. (1992). Comportamento de doze espécies florestais da Mata Atlântica em povoamentos puros. *Revista do Instituto Florestal*, 4, 491--496.
 
@@ -86,15 +86,15 @@ Lins, B.A., Gonçalves, R.M. & Magnago, L.F.S. (2022). [A importância das inter
 
 Martini, A.M.Z., Fiaschi, P., Amorim, A.M. & Paixão, J.L.D. (2007). [A hot-point within a hot-spot: a high diversity site in Brazil's Atlantic Forest](https://doi.org/10.1007/s10531-007-9166-6). *Biodiversity and Conservation*, 16, 3111--3128.
 
-Monteiro, M.H.D.A., Jesus Neves, L. de & Andreata, R.H.P. (2007).  Levantamento e distribuição das espécies de Pouteria Aubl. (Sapotaceae) do estado do Rio de Janeiro, Brasil. *Revista Brasileira de Biociências*.
+Monteiro, M.H.D.A., Neves, L.J. & Andreata, R.H.P. (2007). Levantamento e distribuição das espécies de Pouteria Aubl. (Sapotaceae) do estado do Rio de Janeiro, Brasil. *Revista Brasileira de Biociências*, 5, 369--371.
 
-Oldfield, S., Lusty, C. & MacKinven, A. (1998). *The World List of Threatened Trees*. World Conservation Press,.
+Oldfield, S., Lusty, C. & MacKinven, A. (1998). *The World List of Threatened Trees*. World Conservation Press.
 
 Peixoto, A.L. & Jesus, R.M. (2016). Reserva Natural Vale: memórias de 65 anos de conservação. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T.  & Srbek-Araujo, A.C.). Editora Rupestre, p. 21--29.
 
 Pennington, T.D. (1990). Sapotaceae. *Flora Neotropica*, 52, 1--770.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Rolim, S.G., Machado, R.E. & Pillar, V.D. (2017). [Divergence in a Neotropical forest during 33 years of succession following clear-cutting](https://doi.org/10.1111/jvs.12502). *Journal of Vegetation Science*, 28, 495--503.
 

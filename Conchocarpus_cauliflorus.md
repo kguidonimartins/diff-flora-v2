@@ -12,7 +12,7 @@
 
 **Família**: Rutaceae
 
-**Notas taxonômicas**: De acordo com Pirani & Groppo (2023), a espécie distingue-se das congêneres pelas inflorescências produzidas na base do caule, quase ao nível do solo, entre o folhedo.
+**Notas taxonômicas**: De acordo com Pirani & Groppo (2023a), a espécie distingue-se das congêneres pelas inflorescências produzidas na base do caule, quase ao nível do solo, entre o folhedo.
 
 ## AVALIAÇÃO DE RISCO DE EXTINÇÃO
 
@@ -24,11 +24,11 @@
 
 ## INFORMAÇÕES GERAIS
 
-Arvoreta até 1,6m de altura, ocorrendo em interior de remanescentes de florestas perturbadas em encostas de colinas (Kallunki & Pirani 1998; Pirani & Groppo 2023).
+Arvoreta até 1,6m de altura, ocorrendo em interior de remanescentes de florestas perturbadas em encostas de colinas (Kallunki & Pirani 1998; Pirani & Groppo 2023b).
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-Espécie endêmica da Mata Atlântica brasileira, encontrada somente no estado do Espírito Santo (Pirani & Groppo 2023), conhecida somente na região da bacia do Rio Doce, nos municípios de Colatina, Rio Bananal, Linhares e São Roque do Canaã.
+Espécie endêmica da Mata Atlântica brasileira, encontrada somente no estado do Espírito Santo (Pirani & Groppo 2023b), conhecida somente na região da bacia do Rio Doce, nos municípios de Colatina, Rio Bananal, Linhares e São Roque do Canaã.
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -36,11 +36,11 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: CR (Brasil 2022)
 
-**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (Instituto Estadual de Florestas 2023).
+**PATs/PANs**: Espécie-alvo no PAT Capixaba-Gerais (IEF 2023).
 
 **CITES**: Não consta
 
@@ -56,8 +56,10 @@ Pesquisas sobre tamanho e a tendência populacional, história de vida e ecologi
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
 Kallunki, J.A. & Pirani, J.R. (1998). [Synopses of Angostura Roem. & Schult. and Conchocarpus J. C. Mikan (Rutaceae)](https://doi.org/10.2307/4114501). *Kew Bulletin*, 53, 257--334.
 
-Pirani, J.R. & Groppo, M. (2023). [Rutaceae Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB442>.).
+Pirani, J.R. & Groppo, M. (2023b). *Rutaceae*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB816.](https://floradobrasil.jbrj.gov.br/FB816) Acesso em 11 de abril de 2023.
+
+Pirani, J.R. & Groppo, M. (2023a). *Rutaceae*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB438.](https://floradobrasil.jbrj.gov.br/FB438) Acesso em 11 de abril de 2023.

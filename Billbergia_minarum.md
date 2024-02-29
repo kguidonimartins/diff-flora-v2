@@ -35,7 +35,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: NT (Brasil 2022)
 
@@ -57,7 +57,7 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Coser, T.S., Paula, C.C. & Wendt, T. (2010). [Bromeliaceae Juss. nos campos rupestres do Parque Estadual do Itacolomi, Minas Gerais, Brasil](https://doi.org/10.1590/2175-7860201061209). *Rodriguésia*, 61, 261--280.
 
-Jacques, S.S.A. & Neves, B. (2023). [Billbergia in Flora e Funga do Brasil](<https://floradobrasil.jbrj.gov.br/FB5941>). *Jardim Botânico do Rio de Janeiro*.
+Jacques, S.S.A. & Neves, B. (2023). *Billbergia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB5941.](https://floradobrasil.jbrj.gov.br/FB5941) Acesso em 11 de abril de 2023.
 
 Monteiro, R.F. & Forzza, R.C. (2008). [A família Bromeliaceae no Parque Estadual do Ibitipoca, Minas Gerais, Brasil](https://doi.org/10.11606/issn.2316-9052.v26i1p7-33). *Boletim de Botânica*, 26, 7.
 

@@ -34,7 +34,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -54,6 +54,6 @@ Estudos abrangentes sobre o tamanho da população, distribuição geográfica e
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Lohmann, L.G. (2023). [Handroanthus in Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB117440>.).
+Lohmann, L.G. (2023). *Handroanthus*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB117440.](https://floradobrasil.jbrj.gov.br/FB117440) Acesso em 11 de abril de 2023.
 
-Zuntini, A.R. & Lohmann, L.G. (2016). Levantamento e distribuição das Bignoniaceae na Reserva Natural Vale. *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale. Rona, Belo Horizonte*, 259--268.
+Zuntini, A.R. & Lohmann, L.G. (2016). Levantamento e distribuição das Bignoniaceae na Reserva Natural Vale. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs.  Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p.  259--268.

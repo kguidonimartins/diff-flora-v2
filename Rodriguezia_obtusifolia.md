@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e Luciano Zandoná
 
+![Fonte: Lucas C. Marinho - BioDiversity4All](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Lucas C. Marinho - BioDiversity4All*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -12,7 +16,7 @@
 
 **Família**: Orchidaceae
 
-**Notas taxonômicas**: Erva epífita, com 28 a 77 cm de comprimento, com crescimento simpodial, escandente; caule tipo pseudobulbo, com 2 a 3 folhas; inflorescência lateral com 6 a 13 flores; flores monoclinas, ressupinadas, esbranquiçadas (Flora e Funga do Brasil 2023). A presença de rizomas longos, com espaçamento de 10 a 15 cm entre psudobulbos, é bem característico na espécie (Bastos & Berg 2012).
+**Notas taxonômicas**: Erva epífita, com 28 a 77 cm de comprimento, com crescimento simpodial, escandente; caule tipo pseudobulbo, com 2 a 3 folhas; inflorescência lateral com 6 a 13 flores; flores monoclinas, ressupinadas, esbranquiçadas (Flora e Funga do Brasil 2023). A presença de rizomas longos, com espaçamento de 10 a 15 cm entre psudobulbos, é bem característico na espécie (Bastos & van den Berg 2012).
 
 ## AVALIAÇÃO DE RISCO DE EXTINÇÃO
 
@@ -25,13 +29,13 @@ a ameaçass.  Como resultado, a espécie foi avaliada como "Em Perigo (EN)" na b
 
 ## INFORMAÇÕES GERAIS
 
-A espécie já foi encontrada com flores em março, abril (Ferreira *et al.* 2010) e agosto (Bastos & Berg 2012). É holoepífita verdadeira, com polinização entomófila e dispersão abiótica (Rolim *et al.* 2016a, b).  Estudos sobre polinização indicam a possibilidade de que todo o gênero *Rodriguezia* seja completamente alto incompatível. Tal fato já foi registrado para 4 espécies (Pansarin *et al.* 2018). *R. obtusifolia* é espécie hospedeira de dípteros galhadores do gênero *Neolasioptera* Felt (tribo Alycaulini) (Rodrigues & Maia 2020).
+A espécie já foi encontrada com flores em março, abril (Ferreira *et al.* 2010) e agosto (Bastos & van den Berg 2012). É holoepífita verdadeira, com polinização entomófila e dispersão abiótica (Rolim *et al.* 2016a, b). Estudos sobre polinização indicam a possibilidade de que todo o gênero *Rodriguezia* seja completamente alto incompatível. Tal fato já foi registrado para 4 espécies (Pansarin *et al.* 2018). *R.  obtusifolia* é espécie hospedeira de dípteros galhadores do gênero *Neolasioptera* Felt (tribo Alycaulini) (Rodrigues & Maia 2020).
 
 A espécie é comercializada na internet com potencial ornamental. Além disso, é citada a criação de híbridos comerciais a partir da espécie.
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-Espécie endêmica do Brasil e da Mata Atlântica, ocorre nos estados da Bahia, Espírito Santo, Rio de Janeiro, São Paulo e Paraná. É encontrada em Área Antrópica, Floresta Ombrófila (Floresta Pluvial) (Flora e Funga do Brasil 2023), Floresta Ciliar ou Galeria (Ferreira *et al.* 2010; Flora e Funga do Brasil 2023) e em Floresta Ombrófila Densa de Terras Baixas (Floresta de Tabuleiro). Nas Florestas de Tabuleiro, habita a Mata Alta e a Várzea (Rolim *et al.* 2016a). Na Chapada Diamantina, foi coletada em mata de grotão sobre tronco de árvore (Bastos & Berg 2012).
+Espécie endêmica do Brasil e da Mata Atlântica, ocorre nos estados da Bahia, Espírito Santo, Rio de Janeiro, São Paulo e Paraná. É encontrada em Área Antrópica, Floresta Ombrófila (Floresta Pluvial) (Flora e Funga do Brasil 2023), Floresta Ciliar ou Galeria (Ferreira *et al.* 2010; Flora e Funga do Brasil 2023) e em Floresta Ombrófila Densa de Terras Baixas (Floresta de Tabuleiro). Nas Florestas de Tabuleiro, habita a Mata Alta e a Várzea (Rolim *et al.* 2016a). Na Chapada Diamantina, foi coletada em mata de grotão sobre tronco de árvore (Bastos & van den Berg 2012).
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -39,7 +43,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: NT (Brasil 2022)
 
@@ -57,13 +61,13 @@ Pesquisas sobre tamanho, distribuição e tendências da população, ecologia d
 
 ## REFERÊNCIAS
 
-Bastos, C.A. & Berg, C. van den. (2012). A família Orchidaceae no município de Morro do Chapéu, Bahia, Brasil. *Rodriguésia*, 63, 883--927.
+Bastos, C.A. & van den Berg, C. (2012). [A família Orchidaceae no município de Morro do Chapéu, Bahia, Brasil](https://doi.org/10.1590/S2175-78602012000400010). *Rodriguésia*, 63, 883--927.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Ferreira, A.W.C., Lima, M.I.S. & Pansarin, E.R. (2010). Orchidaceae na região central de São Paulo, Brasil. *Rodriguésia*, 61, 243--259.
+Ferreira, A.W.C., Lima, M.I.S. & Pansarin, E.R. (2010). [Orchidaceae na região central de São Paulo, Brasil](https://doi.org/10.1590/2175-7860201061208). *Rodriguésia*, 61, 243--259.
 
-Flora e Funga do Brasil. (2023). [Jardim Botânico do Rio de Janeiro](http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaNovaConsulta.do#CondicaoTaxonCP).
+Flora e Funga do Brasil. (2023). *Jardim Botânico do Rio de Janeiro*.  Disponível em: [http://floradobrasil.jbrj.gov.br/.](http://floradobrasil.jbrj.gov.br/) Acesso em 11 de abril de 2023.
 
 Pansarin, E.R., Bergamo, P.J., Ferraz, L.J.C., Pedro, S.R.M. & Ferreira, A.W.C. (2018). [Comparative reproductive biology reveals two distinct pollination strategies in Neotropical twig-epiphyte orchids](https://doi.org/10.1007/s00606-018-1510-7). *Plant Systematics and Evolution*, 304, 793--806.
 

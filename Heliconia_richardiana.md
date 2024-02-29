@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e Jair Quintino de Faria
 
+![Fonte: Pl@antNet](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: [*Pl@antNet*](mailto:Pl@antNet)
+
 **Nomes populares**: bananeirinha (Costa *et al.* 2006), helicônia (Virgens 2021)
 
 **Filo**: Tracheophyta
@@ -37,7 +41,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -64,34 +68,34 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 Antunes, T.J., Costa, C.B.N., Santos, V.C. & Costa, J.A.S. (2020).  [Plantas ornamentais no Jardim Botânico FLORAS](https://doi.org/10.33447/paubrasilia.v3i2.35). *Paubrasilia*, 3, 14--24.
 
-Borges, F.S. (2019). Lista de espécies com potencial para a restauração florestal na microrregião do Guamá, Pará, Amazônia, Brasil, 1--60.
+Borges, F.S. (2019). *Lista de espécies com potencial para a restauração florestal na microrregião do Guamá, Pará, Amazônia, Brasil*. Trabalho de Conclusão de Curso (Graduação) - Curso de Engenharia Florestal, Campus Universitário de Belém, Universidade Federal Rural da Amazônia.
 
-Braga, J.M.A. (2023).  [Heliconia](https://floradobrasil.jbrj.gov.br/FB7954). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Braga, J.M.A. (2023). *Heliconiaceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB7954.](https://floradobrasil.jbrj.gov.br/FB7954) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Cardoso, J.M., Santos Bragança Gil, A. dos & Hall, C.F. (2018).  Heliconiaceae na região metropolitana de Belém, estado do Pará, Brasil.  *Boletim do Museu Paraense Emílio Goeldi. Ciências Naturais*, 13, 367--381.
+Cardoso, J.M., Bragança Gil, A.S. & Hall, C.F. (2018). [Heliconiaceae na região metropolitana de Belém, estado do Pará, Brasil](https://doi.org/10.46357/bcnaturais.v13i3.343). *Boletim do Museu Paraense Emílio Goeldi - Ciências Naturais*, 13, 367--381.
 
 Castro, C.E.F. (1995). Helicônia para exportação: aspectos técnicos da produção. *Série Publicações Técnicas FRUPEX*.
 
-CNCFlora. (2012). [Heliconia richardiana](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Heliconia richardiana).  *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.
+CNCFlora. (2012). *Heliconia richardiana*. *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.  Disponível em: [http://cncflora.jbrj.gov.br/portal/pt-br/profile/Heliconia richardiana.](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Heliconia richardiana) Acesso em 11 de abril de 2023.
 
-Coelho, A.G. (2013). A comunidade de plantas utilizada por beija-flores no sub-bosque de um fragmento de Mata Atlântica da Bahia, Brasil, 1--103.
+Coelho, A.G. (2013). *A comunidade de plantas utilizada por beija-flores no sub-bosque de um fragmento de Mata Atlântica da Bahia, Brasil*. Tese (Doutorado Acadêmico em Botânica)- Universidade Estadual de Feira de Santana.
 
-Costa, L.C.B., Rocha, E.A., Silva, L.A.M., Jardim, J.G., Costa Silva, D.  da, Oliveira Gaião, L. de, *et al.* (2006). Levantamento Preliminar das Espécies vegetais com potencial econômico no Parque Municipal da Boa Esperança, Ilhéus, Bahia, Brasil. *Acta Farmaceutica Bonaerense*, 25, 184--191.
+Costa, L.C.B., Rocha, E.A., Silva, L.A.M., Jardim, J.G., Silva, D.C., Gaião, L.O., *et al.* (2006). Levantamento Preliminar das Espécies vegetais com potencial econômico no Parque Municipal da Boa Esperança, Ilhéus, Bahia, Brasil. *Acta Farmaceutica Bonaerense*, 25, 184--191.
 
 Pinto, A.C., Antunes, T.J., Santos, V.C., Costa, C.B.N. & Costa, J.A.S.  (2019). [Composição florística de um fragmento de floresta no Corredor Central da Mata Atlântica, sul da Bahia, Brasil](https://doi.org/10.33447/paubrasilia.v2i2.22). *Paubrasilia*, 2, 14--27.
 
 Ribeiro, M., Peixoto, A.L., Pereira, O.J. & Menezes, L.F.T. (2022).  Tabuleiro Forest in Southeast Brazil: exploring the neglected diversity of a forest fragment. *Pesquisas, Botânica*, 76, 149--191.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
-Sousa, S.D. (2013). Riqueza e especialização de beija-flores e de plantas troquilófilas em uma paisagem fragmentada do sul da Bahia, 1--27.
+Sousa, S.D. (2013). *Riqueza e especialização de beija-flores e de plantas troquilófilas em uma paisagem fragmentada do sul da Bahia*.  Dissertação (mestrado) - Universidade Estadual de Santa Cruz. Programa de Pós-graduação em Ecologia e Conservação da Biodiversidade.
 
 Toriola, D., Chareyre, P. & Buttler, A. (1998). [Distribution of primary forest plant species in a 19-year old secondary forest in French Guiana](https://www.jstor.org/stable/2559912). *Source: Journal of Tropical Ecology*, 14, 323--340.
 
-Virgens, W.A. (2021). Florística, fitogeografia e conservação na Mata Atlântica: uma experiência nas cabrucas do Assentamento Pau-Brasil, Extremo Sul da Bahia, 1--117.
+Virgens, W.A. (2021). *Florística, fitogeografia e conservação na Mata Atlântica: uma experiência nas cabrucas do Assentamento Pau-Brasil, Extremo Sul da Bahia*. Dissertação. (Mestrado em Ciências e Tecnologias Ambientais). Programa de Pós-graduação da Universidade Federal do Sul da Bahia e ao Instituto Federal de Educação, Ciência e Tecnologia da Bahia.
 
 Zortéa, M. & Brito, B.F.A. (2000). Tents used by Vampyressa pusilla (Chiroptera: Phyllostomidae) in Southeastern. *Journal of Tropical Ecology*, 16, 475--480.

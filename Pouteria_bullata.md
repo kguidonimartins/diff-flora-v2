@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e André Moreira
 
+![Fonte: Alex Popovkin](media/rId20.jpg){width="6.486111111111111in" height="3.656544181977253in"}
+
+Fonte: *Alex Popovkin*
+
 **Nomes populares**: guacá, guapeva, guapeva-vermelha (Alves-Araújo & Nichio-Amaral 2023), bapeba-preta (Rizzini *et al.* 1997; Siqueira *et al.* 2014), abiurana (Catharino *et al.* 2006; Marçon 2009), guapevinha (Fogaça 2009)
 
 **Filo**: Tracheophyta
@@ -21,7 +25,7 @@ tomentoso nas partes jovens, face inferior da folha e inflorescência são muito
 
 **Categoria**: EN
 
-**Justificativa**: *Pouteria bullata*, popularmente conhecida como guaça, é uma árvore endêmica da Mata Atlântica associada à Florestas Ombrófilas Densas de Terra Baixa, Submontana, Montana e Altomontana, e Florestas Estacionais Semideciduais. Apresenta registros para os estados da Bahia, Espírito Santo, Rio de Janeiro, São Paulo e Paraná. Na bacia do Rio Doce, ocorre nos municípios de Jaguaré, Linhares e Sooretama, apresentando Extensão de Ocorrência (EOO) de 1.041 km², Área de Ocupação (AOO) de 68 km² e cinco localizações condicionadas a ameaças. Cerca de 38% da EOO da espécie foi convertida em áreas de pastagem, 5% em cultivos de café, 4% em mosaico de usos e 4% em área urbanizada. Quatro ocorrências da espécie foram registradas em pequenos fragmentos de vegetação circundados por áreas de pastagem, cultivos agrícolas e silviculturas. Uma de suas ocorrências está nos fragmentos florestais restantes nas margens da lagoa Juparanã, área altamente
+**Justificativa**: *Pouteria bullata*, popularmente conhecida como guaça, é uma árvore endêmica da Mata Atlântica associada à Florestas Ombrófilas Densas de Terra Baixa, Submontana, Montana e Altomontana, e Florestas Estacionais Semidecíduas . Apresenta registros para os estados da Bahia, Espírito Santo, Rio de Janeiro, São Paulo e Paraná. Na bacia do Rio Doce, ocorre nos municípios de Jaguaré, Linhares e Sooretama, apresentando Extensão de Ocorrência (EOO) de 1.041 km², Área de Ocupação (AOO) de 68 km² e cinco localizações condicionadas a ameaças. Cerca de 38% da EOO da espécie foi convertida em áreas de pastagem, 5% em cultivos de café, 4% em mosaico de usos e 4% em área urbanizada. Quatro ocorrências da espécie foram registradas em pequenos fragmentos de vegetação circundados por áreas de pastagem, cultivos agrícolas e silviculturas. Uma de suas ocorrências está nos fragmentos florestais restantes nas margens da lagoa Juparanã, área altamente
 degradada, com grande empobrecimento e fragmentação da cobertura vegetal devido a intensa pressão de exploração de madeira e atividades agropecuárias. O rompimento da barragem de Fundão provavelmente afetou a subpopulação de ocorrência da espécie na Floresta Nacional de Goytacazes, gerando mudanças na condição do habitat devido à erosão e deposição de rejeitos.  Diante desse cenário, infere-se declínio contínuo de EOO, AOO, qualidade de habitat e número de localizações condicionadas a ameaças. Como resultado, a espécie foi avaliada como "Em Perigo (EN)" na bacia do Rio Doce e, por não haver informações disponíveis sobre migração significativa de populações de fora para a Bacia do Rio Doce, a categoria aplicada é mantida.
 
 ## INFORMAÇÕES GERAIS
@@ -46,7 +50,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: VU (IUCN 2023) -   Nacional: EN (Brasil 2022)
 
@@ -72,9 +76,9 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 ## REFERÊNCIAS
 
-Aguiar, O.T. (2003). Comparação entre os métodos de quadrantes e parcelas na caracterização da composição florística e fitossociológica de um trecho de floresta ombrófila densa no Parque Estadual "Carlos Botelho" -- São Miguel Arcanjo, São Paulo, 1--119.
+Aguiar, O.T. (2003). [*Comparação entre os métodos de quadrantes e parcelas na caracterização da composição florística e fitossociológica de um trecho de floresta ombrófila densa no Parque Estadual "Carlos Botelho" - São Miguel Arcanjo, São Paulo*](https://doi.org/10.11606/D.11.2018.tde-20181127-162121).  Dissertação (Mestrado em Recursos Florestais) - Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo.
 
-Alves-Araújo, A. & Nichio-Amaral, R.N. (2023).  [Pouteria](https://floradobrasil.jbrj.gov.br/FB14492). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Alves-Araújo, A. & Nichio-Amaral, R. (2023). *Pouteria*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB14492.](https://floradobrasil.jbrj.gov.br/FB14492) Acesso em 11 de abril de 2023.
 
 Barretto, E.H.P. & Catharino, E.L.M. (2015). [Florestas maduras da região metropolitana de São Paulo: diversidade, composição arbórea e variação florística ao longo de um gradiente litoral-interior, estado de São Paulo, Brasil](https://doi.org/10.1590/2236-8906-72/2014).  *Hoehnea*, 42, 445--469.
 
@@ -86,62 +90,62 @@ Bueno, R.S., Guevara, R., Ribeiro, M.C., Culot, L., Bufalo, F.S. & Galetti, M. (
 
 Caliman, O.F. (2010). [Riqueza de espécies arbóreas nativas produzidas em viveiros do Espírito Santo](https://www.incaper.es.gov.br).
 
-Catharino, L.E.M., Bernacci, L.C., Franco, G.A.D.C., Durigan, G. & Metzger, J.P. (2006). Aspectos da composição e diversidade do componente arbóreo das florestas da Reserva Florestal do Morro Grande, Cotia, SP.  *Biota Neotropica*, 6, 1--28.
+Catharino, E.L.M., Bernacci, L.C., Franco, G.A.D.C., Durigan, G. & Metzger, J.P. (2006). [Aspectos da composição e diversidade do componente arbóreo das florestas da Reserva Florestal do Morro Grande, Cotia, SP](https://doi.org/10.1590/S1676-06032006000200004). *Biota Neotropica*, 6, 1--28.
 
-Fogaça, M.D. (2009). Escolha de árvore e sítio de dormir e sua influência na rota diária de um grupo de Cebus nigritus, no Parque Estadual Carlos Botelho, SP, 1--72.
+Fogaça, M.D. (2009). [*Escolha de árvore e sítio de dormir e sua influência na rota diária de um grupo de Cebus nigritus, no Parque Estadual Carlos Botelho, SP*](https://doi.org/10.11606/D.47.2009.tde-30112009-144109).  Dissertação (Mestrado em Psicologia Experimental) - Instituto de Psicologia, Universidade de São Paulo.
 
-Gorenstein, M.R. (2009). Diversidade de espécies em comunidades arbóreas: aplicação de índices de distinção taxonômica em três formações florestais do Estado de São Paulo, 1--146.
+Gorenstein, M.R. (2009). [*Diversidade de espécies em comunidades arbóreas: aplicação de índices de distinção taxonômica em três formações florestais do Estado de São Paulo*](https://doi.org/10.11606/T.11.2009.tde-10092009-082240). Tese (Doutorado em Recursos Florestais) - Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo.
 
-Guix, J.C. (2021). Interacciones mutualistas entre animales y plantas X.  Antropocoria: florestas neotropicales. *Publicacions del Centre de Recursos de Biodiversitat Animal*.
+Guix, J.C. (2021). *Interacciones mutualistas entre animales y plantas X. Antropocoria: florestas neotropicales*. *Publicacions del Centre de Recursos de Biodiversitat Animal*. Universitat de Barcelona.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Kamimura, V.A. (2020). Diversidade e estrutura arbórea ao longo de um gradiente altitudinal na Floresta Tropical Pluvial Atlântica, 1--148.
+Kamimura, V.A. (2020). *Diversidade e estrutura arbórea ao longo de um gradiente altitudinal na Floresta Tropical Pluvial Atlântica*. Tese (doutorado) - Universidade Estadual Paulista (Unesp), Instituto de Biociências.
 
-Marçon, S.L. (2009). Composição florística e estrutura do componente arbustivo-arbóreo do Parque Natural Municipal da Cratera de Colônia, São Paulo, SP, 1--120.
+Marçon, S.L. (2009). [*Composição florística e estrutura do componente arbustivo-arbóreo do Parque Natural Municipal da Cratera de Colônia, São Paulo, SP*](https://doi.org/10.11606/D.59.2009.tde-15062009-220207).  Dissertação (Mestrado em Biologia Comparada) - Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo.
 
 Mônico, A.Z. & Alves-Araújo, A. (2019). [Pouteria (Sapotaceae) na Estação Biológica de Santa Lúcia, ES, Brasil](https://doi.org/10.1590/2175-7860201970024). *Rodriguesia*, 70, 1--12.
 
 Monteiro, M.H.D.A., Neves, L.J. & Andreata, R.H.P. (2007). Taxonomia e anatomia das espécies de Pouteria Aublet (Sapotaceae) do estado do Rio de Janeiro. *Pesquisas, Botânica*, 58, 7--118.
 
-Nunes, M.H. (2013). Stem profile modeling in Cerrado and tropical forests formations in Brazil, 1--116.
+Nunes, M.H. (2013). [*Stem profile modeling in Cerrado and tropical forests formations in Brazil*](https://doi.org/10.11606/D.11.2013.tde-30102013-131728).  Dissertação (Mestrado em Recursos Florestais) - Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo.
 
-Onofre, F.F. (2020). Conversão de talhões de eucalipto em Mata Atlântica: efeitos da intensidade de desbaste na vegetação nativa, 1--112.
+Onofre, F.F. (2020). *Conversão de talhões de eucalipto em Mata Atlântica: efeitos da intensidade de desbaste na vegetação nativa*. Tese (doutorado) - Universidade Estadual Paulista (Unesp), Faculdade de Ciências Agronômicas.
 
 Paula, A., Lopes, W.P. & Silva, A.F. (2009). Florística e estrutura de fragmentos florestais no entorno da lagoa Juparanã, Linhares, Espírito Santo, Brasil. *Boletim do Museu de Biologia Mello Leitão. Nova Série*, 26, 5--23.
 
 Pennington, T.D. (1990). Sapotaceae. *Flora Neotropica*, 52, 1--770.
 
-Petroni, L.M. (2000). Caracterização da área de uso e dieta do mono-carvoeiro (Brachyteles arachnoides, Cebidae-Primates) na Mata Atlântica, Serra de Paranapiacaba, SP, 1--173.
+Petroni, L.M. (2000). *Caracterização da área de uso e dieta do mono-carvoeiro (Brachyteles arachnoides, Cebidae-Primates) na Mata Atlântica, Serra de Paranapiacaba, SP*. Tese (Doutorado) - Universidade de São Paulo.
 
-Polisel, R.T. (2013). Levantamento fitossociológico e caráter sucessional de um trecho de floresta secundária ciliar em Juquitiba, SP, Brasil. *Revista Árvore*, 37, 789--799.
+Polisel, R.T. (2013). [Levantamento fitossociológico e caráter sucessional de um trecho de floresta secundária ciliar em Juquitiba, SP, Brasil](https://doi.org/10.1590/S0100-67622013000500002). *Revista Árvore*, 37, 789--799.
 
-Polisel, R.T. & Franco, G.A.D.C. (2010). Comparação florística e estrutural entre dois trechos de Floresta Ombrófila Densa em diferentes estádios sucessionais, Juquitiba, SP, Brasil. *Hoehnea*, 37, 691--718.
+Polisel, R.T. & Franco, G.A.D.C. (2010). [Comparação florística e estrutural entre dois trechos de Floresta Ombrófila Densa em diferentes estádios sucessionais, Juquitiba, SP, Brasil](https://doi.org/10.1590/S2236-89062010000400002). *Hoehnea*, 37, 691--718.
 
-Prata, E.M.B., Assis, M.A. & Joly, C.A. (2011). Composição florística e estrutura da comunidade arbórea na transição da Floresta Ombrófila Densa das Terras Baixas - Floresta Ombrófila Densa Submontana do Núcleo Picinguaba/PESM, Ubatuba, sudeste do Brasil. *Biota Neotropica*, 11, 285--299.
+Prata, E.M.B., Assis, M.A. & Joly, C.A. (2011). [Composição florística e estrutura da comunidade arbórea na transição da Floresta Ombrófila Densa das Terras Baixas - Floresta Ombrófila Densa Submontana do Núcleo Picinguaba/PESM, Ubatuba, sudeste do Brasil](https://doi.org/10.1590/S1676-06032011000200029). *Biota Neotropica*, 11, 285--299.
 
-Prieto, P.V. (2017). Conservação da diversidade arbórea no Estado do Rio de Janeiro: uma abordagem filogenética.
+Prieto, P.V. (2017). *Conservação da diversidade arbórea no Estado do Rio de Janeiro: uma abordagem filogenética*. Tese (doutorado) - Instituto de Pesquisas Jardim Botânico do Rio de Janeiro / Escola Nacional de Botânica Tropical.
 
 Ribeiro, M., Peixoto, A.L., Pereira, O.J. & Menezes, L.F.T. (2022).  Tabuleiro Forest in Southeast Brazil: exploring the neglected diversity of a forest fragment. *Pesquisas, Botânica*, 76, 149--191.
 
 Rizzini, C.M., Aduan, R.E., Jesus, R. & Garay, I. (1997). Floresta pluvial de Tabuleiro, Linhares, ES, Brasil: sistemas primários e secundários. *Leandra*, 12, 54--76.
 
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
-Rosario, R.P.G. (2010). Estágios sucessionais e o enquadramento jurídico das florestas montanas secundárias na Reserva Florestal do Morro Grande (Cotia, SP) e entorno, 1--153.
+Rosario, R.P.G. (2010). *Estágios sucessionais e o enquadramento jurídico das florestas montanas secundárias na Reserva Florestal do Morro Grande (Cotia, SP) e entorno*. Dissertação (Mestrado) - Instituto de Botanica da Secretaria de Estado do Meio Ambiente.
 
-Rosario, R.P.G. (2015). Parâmetros e descritores biológicos para o estabelecimento de classes de estágios sucessionais iniciais para a Floresta Ombrófila Densa Montana, como contribuição à conservação da Mata Atlântica, 1--267.
+Rosario, R.P.G. (2015). *Parâmetros e descritores biológicos para o estabelecimento de classes de estágios sucessionais iniciais para a Floresta Ombrófila Densa Montana, como contribuição à conservação da Mata Atlântica*. Tese (Doutorado) - Instituto de Botânica da Secretaria de Estado do Meio Ambiente.
 
 Rossi, H.R.S., Corrêa, A.M.S., Monticelli, C., Morais, L.H. & Rocha, V.J. (2020). [Análise de pólen em pelagem de morcegos Phyllostomidae (Chiroptera) no Parque Estadual Fontes do Ipiranga, São Paulo, SP, Brasil](https://doi.org/10.1590/2236-8906-70/2019). *Hoehnea*, 47, 1--15.
 
-Safar, N.V.H. (2018). Changes in soil and vegetation attributes during Lowland Atlantic Forest succession in Brazil, 1--60.
+Safar, N.V.H. (2018). *Changes in soil and vegetation attributes during Lowland Atlantic Forest succession in Brazil*. Dissertação (Mestrado em Botânica) - Universidade Federal de Viçosa.
 
-Sansevero, J.B.B. (2013). Classificação de grupos funcionais e caracterização de trajetórias sucessionais na Floresta Atlântica, 1--179.
+Sansevero, J.B.B. (2013). *Classificação de grupos funcionais e caracterização de trajetórias sucessionais na Floresta Atlântica*.  Trabalho de conclusão (Doutorado em Botânica) - Instituto de Pesquisas Jardim Botânico do Rio de Janeiro / Escola Nacional de Botânica Tropical.
 
-Silva-Júnior, W.M., Silva Carmo, F.M. da, Melo, F.R. & Meira-Neto, J.A.A. (2011). Estimating food sources for Woolly Spider Monkeys (Brachyteles spp.) using the forest structure. Em: *Animal Diversity, Natural History and Conservation* (orgs. Gupta, V.K. & Verma, A.K.).  Daya Publishing House, p. 27--76.
+Silva-Júnior, W.M., Carmo, F.M.S., Melo, F.R. & Meira-Neto, J.A.A.  (2011). Estimating food sources for Woolly Spider Monkeys (Brachyteles spp.) using the forest structure. Em: *Animal Diversity, Natural History and Conservation* (orgs. Gupta, V.K. & Verma, A.K.). Daya Publishing House, p. 27--76.
 
 Siqueira, G.S., Kierulff, M.C.M. & Alves-Araújo, A. (2014). Florística das plantas vasculares da Reserva Natural Vale, Linhares, Espírito Santo, Brasil. *Ciência & Ambiente*, 49, 67--129.
 
-Soares, M.P. (2010). Estrutura e diversidade de comunidades e de populações vegetais em Floresta Atlântica de Tabuleiros, 1--84.
+Soares, M.P. (2010). *Estrutura e diversidade de comunidades e de populações vegetais em Floresta Atlântica de Tabuleiros*. Tese (Doutorado em Botânica estrutural; Ecologia e Sistemática) - Universidade Federal de Viçosa.
 
-Tubini, R. (2006). Comparação entre regeneração de espécies nativas em plantios abandonados de Eucalyptus saligna Smith. e em Fragmento de Floresta Ombrófila Densa em São Bernardo do Campo/SP, 1--92.
+Tubini, R. (2006). [*Comparação entre regeneração de espécies nativas em plantios abandonados de Eucalyptus saligna Smith. e em Fragmento de Floresta Ombrófila Densa em São Bernardo do Campo/SP*](https://doi.org/10.11606/D.91.2006.tde-12072006-153217).  Dissertação (Mestrado em Ecologia de Agroecossistemas) - Ecologia de Agroecossistemas, University of São Paulo.

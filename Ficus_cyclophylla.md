@@ -36,11 +36,11 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: EN (IUCN 2023) -   Nacional: NT (Brasil 2022)
 
-**PATs/PANs**: Espécie beneficiada no PAT Chapada Diamantina-Serra da Jiboia (Instituto do Meio Ambiente e Recursos Hídricos - INEMA & Secretaria do Meio Ambiente - SEMA 2021).
+**PATs/PANs**: Espécie beneficiada no PAT Chapada Diamantina-Serra da Jiboia (INEMA & SEMA 2021).
 
 **CITES**: Não consta
 
@@ -58,10 +58,10 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Caiafa, A.N. & Martins, F.R. (2010). [Forms of rarity of tree species in the southern Brazilian Atlantic rainforest](https://doi.org/10.1007/s10531-010-9861-6). *Biodiversity and Conservation*, 19, 2597--2618.
 
-Carauta, J.P.P. (1998). [Ficus cyclophylla](https://dx.doi.org/10.2305/IUCN.UK.1998.RLTS.T34471A9870441.en).  *The IUCN Red List of Threatened Species 1998: e.T34471A9870441.*
+Carauta, J.P.P. (1998). *Ficus cyclophylla*. *The IUCN Red List of Threatened Species 1998: e.T34471A9870441.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.1998.RLTS.T34471A9870441.en.](https://dx.doi.org/10.2305/IUCN.UK.1998.RLTS.T34471A9870441.en) Acesso em 11 de abril de 2023.
 
-Instituto do Meio Ambiente e Recursos Hídricos - INEMA & Secretaria do Meio Ambiente - SEMA. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Chapada Diamantina-Serra da Jiboia (PAT Chapada Diamantina-Serra da Jiboia) - Sumário Executivo*.  Salvador/BA.
+INEMA & SEMA. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Chapada Diamantina-Serra da Jiboia (PAT Chapada Diamantina-Serra da Jiboia) - Sumário Executivo*.  Salvador/BA.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Pederneiras, L.C., Machado, A.F.P. & Santos, O.D.A. (2023). [Ficus in Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB10158>.).
+Pederneiras, L.C., Machado, A.F.P. & Santos, O.D.A. (2023). *Ficus*.  *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB10158.](https://floradobrasil.jbrj.gov.br/FB10158) Acesso em 11 de abril de 2023.

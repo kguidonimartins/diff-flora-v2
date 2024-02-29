@@ -40,7 +40,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -62,4 +62,4 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Lombardi, J.A. (2000). [Vitaceae: Gêneros Ampelocissus, Ampelopsis E Cissus](http://www.jstor.org/stable/4393896). *Flora Neotropica*, 80, 1--250.
 
-Picanço, W.L. & Lombardi, J.A. (2023).  [Vitaceae](https://floradobrasil.jbrj.gov.br/FB15256). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro.*
+Picanço, W.L. & Lombardi, J.A. (2023). *Vitaceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB15253.](https://floradobrasil.jbrj.gov.br/FB15253) Acesso em 11 de abril de 2023.

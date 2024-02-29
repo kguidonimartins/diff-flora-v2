@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -59,4 +59,4 @@ Berg, C.C. (2001). [Moreae, Artocarpeae, and Dorstenia (Moraceae), with Introduc
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Machado, A.F.P. & Vianna Filho, M.D.M. (2023). [Dorstenia in Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB19777>.).
+Machado, A.F.P. & Vianna Filho, M.D.M. (2023). *Dorstenia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB10115.](https://floradobrasil.jbrj.gov.br/FB10115) Acesso em 11 de abril de 2023.

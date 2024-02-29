@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e Luciano Zandoná
 
+![Fonte: Geovane Siqueira - BioDiversity4All](media/rId20.jpg){width="5.208333333333333in" height="6.944444444444445in"}
+
+Fonte: *Geovane Siqueira - BioDiversity4All*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -29,7 +33,7 @@ Encontrada com flores de julho a janeiro, com pico de floração na estação se
 
 A espécie comumente possui grandes populações, com os indivíduos formando ilhas de vegetação monoespecíficas (Pessoa & Alves 2014). A densidade relativa pode se alterar de acordo com a sazonalidade local, diminuindo cerca de 0,3% no período de estiagem em relação ao chuvoso (Chaves & Ferreira 2016).
 
-*Sobralia liliastrum* tem potencial ornamental (Silva Sousa *et al.* 2020) e é comercializada em algumas regiões do país (Cantuária *et al.* 2018).
+*Sobralia liliastrum* tem potencial ornamental (Sousa *et al.* 2020) e é comercializada em algumas regiões do país (Cantuária *et al.* 2018).
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -41,7 +45,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -61,17 +65,17 @@ Pesquisas sobre tamanho, distribuição e tendências da população, ecologia d
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Cantuária, P.C., Medeiros, T.D.S., Silva, R.B.L., Cantuária, M.F., Neto, B.D., Freitas Almeida, B.R. de, *et al.* (2018). O potencial econômico das orquídeas do estado do Amapá. *Arquivos Científicos (IMMES)*, 1, 43--54.
+Cantuária, P.C., Medeiros, T.D.S., Silva, R.B.L., Cantuária, M.F., Dewes Neto, B., Almeida, B.R.F., *et al.* (2018). [O potencial econômico das orquídeas do estado do Amapá](https://doi.org/10.5935/2595-4407/rac.immes.v1n1p43-54). *Revista Arquivos Científicos (IMMES)*, 1, 43--54.
 
 Chaves, P.P. & Ferreira, L.V. (2016). O efeito da sazonalidade da precipitação na florística e na estrutura da regeneração natural dos campos rupestres da Serra Norte de Carajás. *Boletim do Museu Paraense Emílio Goeldi, Ciências Naturais*, 11, 103--116.
 
-Dias, H.M. (2010). Avaliação do cenário para utilização dos recursos florísticos nativos de restingas para inclusão socioeconômica em Caravelas, Bahia, 1--200.
+Dias, H.M. (2010). *Avaliação do cenário para utilização dos recursos florísticos nativos de restingas para inclusão socioeconômica em Caravelas, Bahia*. Tese (Doutorado em Meio Ambiente) - Universidade do Estado do Rio de Janeiro.
 
 Firmino, A.L. & Pereira, O.L. (2014). [Lembosia bezerrae, a new asterinaceous fungus associated with a terrestrial Orchid from Bahia, Brazil](https://doi.org/10.5248/127.199). *Mycotaxon*, 127, 199--205.
 
-Flora e Funga do Brasil. (2023). [Jardim Botânico do Rio de Janeiro](http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaNovaConsulta.do#CondicaoTaxonCP).
+Flora e Funga do Brasil. (2023). *Jardim Botânico do Rio de Janeiro*.  Disponível em: [http://floradobrasil.jbrj.gov.br/.](http://floradobrasil.jbrj.gov.br/) Acesso em 11 de abril de 2023.
 
-Machado, W.J. (2018). Fenologia da vegetação em áreas de areias brancas no Parque Nacional Serra de Itabaiana, Sergipe, Brasil, 1--137.
+Machado, W.J. (2018). [*Fenologia da vegetação em áreas de areias brancas no Parque Nacional Serra de Itabaiana, Sergipe, Brasil*](https://repositorio.ufscar.br/handle/ufscar/10330 ). Tese (Doutorado em Ecologia e Recursos Naturais) - Universidade Federal de São Carlos.
 
 Peixoto, A.L. & Jesus, R.M. (2016). Reserva Natural Vale: memórias de 65 anos de conservação. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T.  & Srbek-Araujo, A.C.). Editora Rupestre, p. 21--29.
 
@@ -85,6 +89,6 @@ Ramirez, N., Gil, C., Hokche, O., Seres, A. & Brito, Y. (1990). Biologia floral 
 
 Santana, K.C., Souza, I.M., Pedreira Miranda, L. d'Afonsêca & Funch, L.S. (2016). [Phenodynamics of five orchids species growing on rock outcrops in the Chapada Diamantina Mountains in northeastern Brazil](https://doi.org/10.1590/0102-33062016abb0132). *Acta Botanica Brasilica*, 30, 508--513.
 
-Silva Sousa, R.P. da, Costa, W.S., Silva Matos, P. e, Carvalho, A.S., Martins, F.D. & Torres, K.R. (2020). [Ornamental potential of species from the ferruginous campo rupestre of the Carajás National Forest, Brazilian Amazon](https://doi.org/10.14295/CS.V12.3260). *Comunicata Scientiae*, 11, 1--9.
+Sousa, R.P.S., Costa, W.S., Matos, P.S., Carvalho, A.S., Martins, F.D. & Torres, K.R. (2020). [Ornamental potential of species from the ferruginous campo rupestre of the Carajás National Forest, Brazilian Amazon](https://doi.org/10.14295/CS.V12.3260). *Comunicata Scientiae*, 11, 1--9.
 
 Zanetti, M., Dayrell, R.L.C., Wardil, M.V., Damasceno, A., Fernandes, T., Castilho, A., *et al.* (2020). [Seed Functional Traits Provide Support for Ecological Restoration and ex situ Conservation in the Threatened Amazon Ironstone Outcrop Flora](https://doi.org/10.3389/fpls.2020.599496). *Frontiers in Plant Science*, 11.

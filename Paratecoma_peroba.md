@@ -20,7 +20,7 @@
 
 **Categoria**: EN
 
-**Justificativa**: *Paratecoma peroba*, popularmente conhecida como ipê-peroba, é uma árvore endêmica da Mata Atlântica associada às Florestas Ombrófilas, Florestas de Tabuleiro e Florestas Estacionais Semideciduais nos estados de Minas Gerais, Espírito Santo e Rio de Janeiro. Na bacia do Rio Doce, possui Extensão de Ocorrência (EOO) de 43.023 km², Área de Ocupação (AOO) de 152 km² e cinco localizações condicionadas a ameaças. A maioria dos registros da espécie está em pequenos fragmentos de vegetação circundados por áreas de pastagem, cultivos agrícolas e silviculturas. Cerca de 68% da EOO da espécie foi convertida em pastagens, 9% em mosaico de usos, 2% em cultivo de café, 1% em área urbanizada e 1% em silvicultura. O rompimento da barragem de Fundão provavelmente afetou seis subpopulações da espécie, dentre elas as subpopulação do Parque Estadual do Rio Doce e da Floresta Nacional de Goytacazes, com mudanças na condição do habitat devido à
+**Justificativa**: *Paratecoma peroba*, popularmente conhecida como ipê-peroba, é uma árvore endêmica da Mata Atlântica associada às Florestas Ombrófilas, Florestas de Tabuleiro e Florestas Estacionais Semidecíduas nos estados de Minas Gerais, Espírito Santo e Rio de Janeiro. Na bacia do Rio Doce, possui Extensão de Ocorrência (EOO) de 43.023 km², Área de Ocupação (AOO) de 152 km² e cinco localizações condicionadas a ameaças. A maioria dos registros da espécie está em pequenos fragmentos de vegetação circundados por áreas de pastagem, cultivos agrícolas e silviculturas. Cerca de 68% da EOO da espécie foi convertida em pastagens, 9% em mosaico de usos, 2% em cultivo de café, 1% em área urbanizada e 1% em silvicultura. O rompimento da barragem de Fundão provavelmente afetou seis subpopulações da espécie, dentre elas as subpopulação do Parque Estadual do Rio Doce e da Floresta Nacional de Goytacazes, com mudanças na condição do habitat devido à
 erosão e deposição de rejeitos. *P. peroba* sofre intensa pressão advinda da exploração madeireira. Estudos apontam que indivíduos de *P. peroba* tornam-se efetivamente reprodutivos somente quando adquirem grande porte (diâm elevados, DAP \> 30 cm), superior ao tamanho médio adotado para o corte seletivo em algumas regiões (DAP \> 20 cm). Isto, somado a um padrão fenológico reprodutivo supra-anual ou irregular, implica que muitos indivíduos não têm chance de se reproduzir ou tiveram poucos eventos de reprodução antes do corte. Ainda, indicam que a espécie pode ter suas populações reduzidas com o corte seletivo de madeira, já que em áres exploradas há mudança significativa na dominância do dossel, com *P. peroba*, espécie típica de sucessão tardia, sendo substituída por espécies de sucessão precoce. Diante desse cenário, infere-se declínio contínuo de EOO, AOO, qualidade de habitat e número de localizações condicionadas a ameaças. Como resultado,
 a espécie foi avaliada como "Em Perigo (EN)" na bacia do Rio Doce. Não há informações disponíveis sobre migração significativa de populações de fora para a bacia do Rio Doce, portanto, a categoria aplicada é mantida.
 
@@ -54,11 +54,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
-**PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Não consta
 
@@ -80,7 +80,7 @@ A Floresta Nacional de Goytacazes representa o único remanescente da Floresta A
 
 A Floresta Atlântica sobre a Planície Aluvial às margens do Rio Doce, no município de Linhares, não raramente, possui grandes cheias que se estendem por mais de 2 km de extensão sobre a planície aluvial, quando ocorre a deposição de sedimentos. Apesar de raras, as cheias também ocorrem na Floresta Nacional de Goytacazes (Rolim *et al.* 2006). Tais cheias podem fazer com que os rejeitos decorrentes do rompimento da barragem de Fundão sejam depositados no interior de tais florestas, causando mudanças na condição do habitat em função da erosão e deposição, ainda que tal impacto seja de significância média e duração a médio prazo.
 
-O Parque Estadual do Rio Doce sofreu um impacto moderado com o rompimento da Barragem de Fundão, com mortalidade direta de indivíduos por inundação e deposição de rejeitos e pela deposição de rejeitos imediata e de significância média, e mudanças na condição do habitat em função da erosão e deposição de rejeitos de significância moderada (Projetos Ltda 2016).
+O Parque Estadual do Rio Doce sofreu um impacto moderado com o rompimento da Barragem de Fundão, com mortalidade direta de indivíduos por inundação e deposição de rejeitos e pela deposição de rejeitos imediata e de significância média, e mudanças na condição do habitat em função da erosão e deposição de rejeitos de significância moderada (Golder Associates 2016).
 
 ## PESQUISAS RECOMENDADAS
 
@@ -88,11 +88,11 @@ Pesquisas sobre tamanho, distribuição e tendência populacional; história de 
 
 ## REFERÊNCIAS
 
-Araújo, E.F., Gibson, E.L., Santos, A.R., Oliveira Gonçalves, E. de, Wendling, I., Alexandre, R.S., *et al.* (2019). [Mini-cutting technique for vegetative propagation of Paratecoma peroba](https://doi.org/10.1590/01047760201925032647). *Cerne*, 25, 314--325.
+Araújo, E.F., Gibson, E.L., Santos, A.R. dos, Gonçalves, E. de O., Wendling, I., Alexandre, R.S., *et al.* (2019). [Mini-cutting technique for vegetative propagation of Paratecoma peroba](https://doi.org/10.1590/01047760201925032647). *CERNE*, 25, 314--325.
 
-Araújo, E.F., Oliveira Gonçalves, E. de, Santos, A.R., Gibson, E.L., Caldeira, M.V.W. & Pezzopane, J.E.M. (2020). [Controlled release fertilizer in the rooting and performance of clones of Paratecoma peroba](https://doi.org/10.1590/01047760202026022693). *Cerne*, 26, 202--211.
+Araújo, E.F., Gonçalves, E.O., Dos Santos, A.R., Gibson, E.L., Caldeira, M.V.W. & Pezzopane, J.E.M. (2020). [Controlled release fertilizer in the rooting and performance of clones of Paratecoma peroba](https://doi.org/10.1590/01047760202026022693). *CERNE*, 26, 202--211.
 
-Archanjo, K.M.P.A., Silva, G.F., Chichorro, J.F. & Soares, C.P.B.  (2012). Estrutura do componente arbóreo da Reserva Particular do Patrimônio Natural Cafundó, Cachoeiro de Itapemirim, Espírito Santo, Brasil. *Floresta*, 42, 145--160.
+Archanjo, K.M.P.A., Silva, G.F., Chichorro, J.F. & Soares, C.P.B.  (2012). [Estrutura do componente arbóreo da Reserva Particular do Patrimônio Natural Cafundó, Cachoeiro de Itapemirim, Espírito Santo, Brasil](http://dx.doi.org/10.5380/rf.v42i1.26311). *Floresta*, 42, 145--160.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
@@ -102,40 +102,40 @@ Costa, M.P., Nappo, M.E., Caçador, F.R.D. & Barros, H.H.D. (2010).  Avaliação
 
 Engel, V.L. & Martins, F.R. (2005). Reproductive phenology of Atlantic forest tree species in Brazil: an eleven year study. *Tropical Ecology*, 46, 1--16.
 
-Feletti, T.A., Araújo, E.F., Oliveira Gonçalves, E. de, Feletti, T.A., Santos, A.R. & Gibson, E.L. (2019). [Growth and nutrition of Paratecoma peroba seedlings in different tube volumes and controlled-release fertilizers](https://doi.org/10.5380/rf.v50). *Floresta*, 50, 1613--1622.
+Feletti, T.A., Araújo, E.F., Gonçalves, E.O., Feletti, T.A., Santos, A.R. & Gibson, E.L. (2019). [Growth and nutrition of Paratecoma peroba seedlings in different tube volumes and controlled-release fertilizers](https://doi.org/10.5380/rf.v50). *Floresta*, 50, 1613--1622.
 
-França, T.C.C., Tavares, L.R., Júnior, A.L.S., Miranda, F.D., Vargas, L.B., Abreu, K.M.P., *et al.* (2022). [Genetic characterization of remaining populations of Paratecoma peroba, an endangered and endemic species of the Atlantic Forest](https://doi.org/10.1590/01047760202228013055). *Cerne*, 28.
+França, T.C.C., Tavares, L.R., Silva Júnior, A.L., Miranda, F.D., Vargas, L.B., Abreu, K.M.P., *et al.* (2022). [Genetic characterization of remaining populations of Paratecoma peroba, an endangered and endemic species of the Atlantic Forest](https://doi.org/10.1590/01047760202228013055). *Cerne*, 28.
 
 Gentry, A.H. (1992). Bignoniaceae: Part II (Tribe Tecomeae). *Flora Neotropica*, 25, 1--370.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
+
+IEF. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
 
 Kageyama, P.Y. & Castro, C.F.A. (1989). Sucessão secundária, estrutura genética e plantações de espécies arbóreas nativas. *IPEF*, 42/42, 83--93.
 
-Lins, B.L.A. & Nascimento, M.T. (2010). Fenologia de Paratecoma peroba (Bignoniaceae) em uma floresta estacional semidecidual do norte fluminense, Brasil. *Rodriguésia*, 61, 559--568.
+Lins, B.L.A. & Nascimento, M.T. (2010). [Fenologia de Paratecoma peroba (Bignoniaceae) em uma floresta estacional semidecidual do norte fluminense, Brasil](https://doi.org/10.1590/2175-7860201061315).  *Rodriguésia*, 61, 559--568.
 
-Lohmann, L.G. (2023).  [Paratecoma](https://floradobrasil.jbrj.gov.br/FB114202). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Lohmann, L.G. (2023). *Paratecoma*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB114202.](https://floradobrasil.jbrj.gov.br/FB114202) Acesso em 11 de abril de 2023.
 
 Lorenzi, H. (1992). *Árvores brasileiras: manual de identificação e cultivo de plantas arbóreas nativas do Brasil*. Editora Plantarum.
 
 Paula, A., Lopes, W.P. & Silva, A.F. (2009). Florística e estrutura de fragmentos florestais no entorno da lagoa Juparanã, Linhares, Espírito Santo, Brasil. *Boletim do Museu de Biologia Mello Leitão. Nova Série*, 26, 5--23.
 
-Projetos Ltda, G.A.B.C. e. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Rolim, S.G. & Chiarello, A.G. (2004). [Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil](https://doi.org/10.1007/s10531-004-2142-5). *Biodiversity and Conservation*, 13, 2679--2694.
 
-Rolim, S.G. & Chiarello, A.G. (2004). Slow death of Atlantic Forest trees in cocoa agroforestry in southeastern Brazil. *Biodiversity and Conservation*, 13, 2679--2694.
-
-Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil. *Acta Botanica Brasilica*, 20, 549--561.
+Rolim, S.G., Ivanauskas, N.M., Rodrigues, R.R., Nascimento, M.T., Gomes, J.M.L., Folli, D.A., *et al.* (2006). [Composição Florística do estrato arbóreo da Floresta Estacional Semidecidual na Planície Aluvial do rio Doce, Linhares, ES, Brasil](https://doi.org/10.1590/S0102-33062006000300005). *Acta Botanica Brasilica*, 20, 549--561.
 
 Rolim, S.G., Peixoto, A.L., Pereira, O.J., Araujo, D.S.D., Nadruz, M., Siqueira, G., *et al.* (2016). Angiospermas da Reserva Natural Vale, na Floresta Atlântica do Norte do Espírito Santo. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs.  Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p.  167--230.
 
 Saiter, F.Z., Rolim, S.G. & Oliveira-Filho, A.T. (2016). A Floresta de Linhares no contexto fitogeográfico do leste do Brasil. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p. 61--69.
 
-Santiago, W.D., Graças Cardoso, M. das & Nelson, D.L. (2017). [Cachaça stored in casks newly constructed of oak (Quercus sp.), amburana (Amburana cearensis), jatoba (Hymenaeae carbouril), balsam (Myroxylon peruiferum) and peroba (Paratecoma peroba): alcohol content, phenol composition, colour intensity and dry extract](https://doi.org/10.1002/jib.414). *Journal of the Institute of Brewing*, 123, 232--241.
+Santiago, W.D., Cardoso, M.G. & Nelson, D.L. (2017). [Cachaça stored in casks newly constructed of oak (Quercus sp.), amburana (Amburana cearensis), jatoba (Hymenaeae carbouril), balsam (Myroxylon peruiferum) and peroba (Paratecoma peroba): alcohol content, phenol composition, colour intensity and dry extract](https://doi.org/10.1002/jib.414).  *Journal of the Institute of Brewing*, 123, 232--241.
 
 Silva, G.C. & Nascimento, M.T. (2001). Fitossociologia de um remanescente de mata sobre tabuleiros no norte do estado do Rio de Janeiro (Mata do Carvão). *Revista Brasileira de Botânica*, 24, 51--62.
 
 Silva, R.D., Siqueira, D.P., Carvalho, G.C.M.W., Silva, M.K.F. & Barroso, D.G. (2021). [Vegetative rescue of Paratecoma peroba adult trees: adventitious rooting of epicormic sprouts from detached branches](https://doi.org/10.1016/j.rhisph.2021.100419). *Rhizosphere*, 19, 1--3.
 
-Villela, D.M., Nascimento, M.T. & Luiz Eduardo O. C.Da Gama, D.M.A.  (2006). [Effect of selective logging on forest structure and nutrient cycling in a seasonally dry Brazilian Atlantic forest](https://doi.org/10.1111/j.1365-2699.2005.01453.x). *Journal of Biogeography*, 33, 506--516.
+Villela, D.M., Nascimento, M.T., Aragão, L.E.O.C. & Gama, D.M. (2006).  [Effect of selective logging on forest structure and nutrient cycling in a seasonally dry Brazilian Atlantic forest](https://doi.org/10.1111/j.1365-2699.2005.01453.x). *Journal of Biogeography*, 33, 506--516.
 
 Zuntini, A.R. & Lohmann, L.G. (2016). Levantamento e distribuição das Bignoniaceae na Reserva Natural Vale. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs.  Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p.  259--268.

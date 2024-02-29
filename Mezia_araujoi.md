@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -47,7 +47,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## PRINCIPAIS AMEAÇAS
 
-A espécie é ameaçada por pecuária extensiva e/ou intensiva, silvicultura e por rejeitos provenientes do rompimento da barragem de Fundão. O Parque Estadual do Rio Doce sofreu um impacto moderado com o rompimento da Barragem de Fundão, com mortalidade direta de indivíduos por inundação e deposição de rejeitos e pela deposição de rejeitos imediata e de significância média, e mudanças na condição do habitat em função da erosão e deposição de rejeitos de significância moderada \[Golder_relat_2016_jao\].
+A espécie é ameaçada por pecuária extensiva e/ou intensiva, silvicultura e por rejeitos provenientes do rompimento da barragem de Fundão. O Parque Estadual do Rio Doce sofreu um impacto moderado com o rompimento da Barragem de Fundão, com mortalidade direta de indivíduos por inundação e deposição de rejeitos e pela deposição de rejeitos imediata e de significância média, e mudanças na condição do habitat em função da erosão e deposição de rejeitos de significância moderada (Golder Associates 2016).
 
 ## PESQUISAS RECOMENDADAS
 
@@ -55,7 +55,7 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 ## REFERÊNCIAS
 
-Almeida, R.F. (2023). [Mezia](https://floradobrasil.jbrj.gov.br/FB8924).  *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Almeida, R.F. (2023). *Mezia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB8924.](https://floradobrasil.jbrj.gov.br/FB8924) Acesso em 11 de abril de 2023.
 
 Almeida, R.F., Pessoa, C. & Francener, A. (2018). Sinopse de Malpighiaceae Juss. do Estado da Bahia, Brasil: chave para gêneros e monografias dos gêneros monoespecíficos Alicia, Aspicarpa, Callaeum, Galphimia, Lophopterys, Mcvaughia, Mezia e Verrucularia. *Boletim do Museu de Biologia Mello Leitão, Nova Série*, 40, 55--91.
 
@@ -64,5 +64,7 @@ Anderson, C. & Anderson, W.R. (2018). [Revision of Mezia (Malpighiaceae)](https:
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
 Fernandes, N.B.G., Vieira, B.B. & Azevedo, M.A.M. (2021). Diagnóstico do estado de conservação de algumas angiospermas no Parque Nacional Serra dos Órgãos, Rio de Janeiro, Brasil. *Diversidade e Gestão*, 5, 18--38.
+
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Ribeiro, M., Peixoto, A.L., Pereira, O.J. & Menezes, L.F.T. (2022).  Tabuleiro Forest in Southeast Brazil: exploring the neglected diversity of a forest fragment. *Pesquisas, Botânica*, 76, 149--191.

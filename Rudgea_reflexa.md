@@ -37,7 +37,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: NT (Brasil 2022)
 
@@ -57,11 +57,11 @@ Em um estudo visando avaliar se o ''Conhecimento Digital Acessível'' é genuina
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-CNCFlora. (2012). [Rudgea reflexa](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Rudgea reflexa).  *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.
+CNCFlora. (2012). *Rudgea reflexa*. *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*. Disponível em: [http://cncflora.jbrj.gov.br/portal/pt-br/profile/Rudgea reflexa.](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Rudgea reflexa) Acesso em 11 de abril de 2023.
 
-Ferreira, N.C. (2019). Morfologia foliar de espécies de Rubiaceae em um gradiente topográfico de uma floresta tropical, 1--46.
+Ferreira, N.C. (2019). *Morfologia foliar de espécies de Rubiaceae em um gradiente topográfico de uma floresta tropical*. Dissertação (Mestrado em Ecologia de Ecossistemas) - Universidade Vila Velha.
 
-Flora e Funga do Brasil. (2023). [Jardim Botânico do Rio de Janeiro](http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaNovaConsulta.do#CondicaoTaxonCP).
+Flora e Funga do Brasil. (2023). *Rudgea*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB14246.](https://floradobrasil.jbrj.gov.br/FB14246) Acesso em 11 de abril de 2023.
 
 Sousa-Baena, M.S., Garcia, L.C. & Peterson, A.T. (2014). [Knowledge behind conservation status decisions: Data basis for \"Data Deficient\" Brazilian plant species](https://doi.org/10.1016/j.biocon.2013.06.034).  *Biological Conservation*, 173, 80--89.
 

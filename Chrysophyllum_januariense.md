@@ -40,7 +40,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: EX (IUCN 2023) -   Nacional: NT (Brasil 2022)
 
@@ -58,16 +58,16 @@ Pesquisas sobre tamanho e tendências da população, número de subpopulações
 
 ## REFERÊNCIAS
 
-Alves-Araújo, A., Carneiro, C.E., Faria, A.D. & Lima, R.G.V.N. (2023).  [Chrysophyllum Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB14460>.).
+Alves-Araújo, A., Carneiro, C.E., Faria, A.D. & Lima, R.G.V.N. (2023).  *Chrysophyllum*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB14460.](https://floradobrasil.jbrj.gov.br/FB14460) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Kurtz, B.C., Sá, C.F.C. & Silva, D.O. (2009). [Fitossociologia do componente arbustivo-arbóreo de florestas semidecíduas costeiras da região de Emerenças, Área de Proteção Ambiental do Pau Brasil, Armação dos Búzios, Rio de Janeiro, Brasil](https://doi.org/10.1590/2175-7860200960107). *Rodriguésia*, 60, 129--146.
+Kurtz, B.C., de Sá, C.F.C. & Silva, D.O. (2009). [Fitossociologia do componente arbustivo-arbóreo de florestas semidecíduas costeiras da região de Emerenças, Área de Proteção Ambiental do Pau Brasil, Armação dos Búzios, Rio de Janeiro, Brasil](https://doi.org/10.1590/2175-7860200960107). *Rodriguésia*, 60, 129--146.
 
 Palazzo, F.M., Monteiro, M.H.D.A. & Andreata, R.H.P. (2012).  Chrysophyllum januariense Eichl. (Sapotaceae): nova ocorrência para o Brasil e descrição do fruto. *Pesquisas, série Botânica*, 63, 213--218.
 
 Pennington, T.D. (1990). Sapotaceae. *Flora Neotropica*, 52, 1--770.
 
-Sossai, B.G. & Alves-Araújo, A. (2017). [Flora do Espírito Santo: \<i\>Chrysophyllum\</i\> (Sapotaceae)](https://doi.org/10.1590/2175-7860201768519).  *Rodriguésia*, 68, 1857--1870.
+Sossai, B.G. & Alves-Araújo, A. (2017). [Flora do Espírito Santo: Chrysophyllum (Sapotaceae)](https://doi.org/10.1590/2175-7860201768519).  *Rodriguésia*, 68, 1857--1870.

@@ -2,6 +2,10 @@
 
 **Autores(as)**: Eduardo Amorim, Monira Bruno Bicalho, Karlo Guidoni e André Moreira
 
+![Fonte: Royal Botanical Gardens Kew](media/rId20.jpg){width="6.486111111111111in" height="4.803775153105862in"}
+
+Fonte: *Royal Botanical Gardens Kew*
+
 **Nomes populares**: caiapiá, carapiá
 
 **Filo**: Tracheophyta
@@ -35,10 +39,9 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2008)
+-   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (COPAM 2008)
 
 **PATs/PANs**: Não disponível
 
@@ -56,6 +59,6 @@ Recomenda-se uma pesquisas abrangentes sobre a real distribuição e tendências
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2008). Deliberação no 367, de 15 de dezembro de 2008: Aprova a Lista de Espécies Ameaçadas de Extinção da Flora do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais, Belo Horizonte.
+COPAM. (2008). Deliberação no 367, de 15 de dezembro de 2008: Aprova a Lista de Espécies Ameaçadas de Extinção da Flora do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais, Belo Horizonte.
 
-Machado, A.F.P. & Vianna Filho, M.D.M. (2023).  [Dorstenia](https://floradobrasil.jbrj.gov.br/FB10124). *Flora e Funga do Brasil*.
+Machado, A.F.P. & Vianna Filho, M.D.M. (2023). *Dorstenia*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB10115.](https://floradobrasil.jbrj.gov.br/FB10115) Acesso em 11 de abril de 2023.

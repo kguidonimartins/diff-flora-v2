@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -55,10 +55,10 @@ Pesquisas sobre tamanho e a tendência populacional, história de vida e ecologi
 
 ## REFERÊNCIAS
 
-Biral, L. & Lombardi, J.A. (2023).  [Celastraceae](https://floradobrasil.jbrj.gov.br/FB6801). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Biral, L. & Lombardi, J.A. (2023). *Celastraceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB6801.](https://floradobrasil.jbrj.gov.br/FB6801) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-CNCFlora. (2012). [Tontelea martiana](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Tontelea martiana).  *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora.*
+CNCFlora. (2012). *Tontelea martiana*. *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora.* Disponível em: [http://cncflora.jbrj.gov.br/portal/pt-br/profile/Tontelea martiana.](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Tontelea martiana) Acesso em 11 de abril de 2023.
 
-Lombardi, J.A. & Lara, A.C.M. (2003). Hippocrateaceae. Em: *Flora Fanerogâmica do Estado de São Paulo* (orgs. Graças Lapa Wanderley, M.  das, Sheperd, G.J., Giulietti, A.M. & Melhem, T.S.). FAPESP: RiMa, p.  109--122.
+Lombardi, J.A. & Lara, A.C.M. (2003). Hippocrateaceae. Em: *Flora Fanerogâmica do Estado de São Paulo* (orgs. Wanderley, M.G.L., Sheperd, G.J., Giulietti, A.M. & Melhem, T.S.). FAPESP: RiMa, p. 109--122.

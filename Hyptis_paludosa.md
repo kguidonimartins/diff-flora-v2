@@ -29,7 +29,7 @@ A espécie possui interesse medicinal, com relatos de sua infusão ser ingerida 
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-Espécie endêmica do Brasil e da Mata Atlântica dos estados de Pernambuco, Bahia, Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo. Ocorre em Floresta Ombrófila (Floresta Pluvial) e Restinga (Fátima C. B. R. Almeida & Albuquerque 2002; Harley & Antar 2023), em locais pantanosos, brejos e margens de lagos (Epling 1938; Harley 2012).  A espécie é citada como não endêmica do Brasil (CNCFlora 2012), como ocorrente também em Cerrado (Tannus 2007) e nos estados de Mato Grosso (Epling 1938), no Mato Grosso do Sul (Moreira 2015), e habitando veredas (Moreira 2015). Porém, essas informações são conflitantes com os dados disponíveis na Flora e Funga do Brasil 2020 (Harley & Antar 2023).
+Espécie endêmica do Brasil e da Mata Atlântica dos estados de Pernambuco, Bahia, Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo. Ocorre em Floresta Ombrófila (Floresta Pluvial) e Restinga (Almeida & Albuquerque 2002; Harley & Antar 2023), em locais pantanosos, brejos e margens de lagos (Epling 1938; Harley 2012). A espécie é citada como não endêmica do Brasil (CNCFlora 2012), como ocorrente também em Cerrado (Tannus 2007) e nos estados de Mato Grosso (Epling 1938), no Mato Grosso do Sul (Moreira 2015), e habitando veredas (Moreira 2015).  Porém, essas informações são conflitantes com os dados disponíveis na Flora e Funga do Brasil 2020 (Harley & Antar 2023).
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -47,7 +47,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## PRINCIPAIS AMEAÇAS
 
-A espécie é ameaçada por pecuária extensiva e/ou intensiva, agricultura, silvicultura e por rejeitos provenientes do rompimento da barragem de Fundão. O Parque Estadual do Rio Doce sofreu impacto moderado com o rompimento da Barragem de Fundão, com mortalidade direta de indivíduos por inundação e deposição de rejeitos e pela deposição de rejeitos imediata e de significância média. Também houve mudanças na condição do habitat em função da erosão e deposição de rejeitos de significância moderada \[Golder_relat_2016_jao\].
+A espécie é ameaçada por pecuária extensiva e/ou intensiva, agricultura, silvicultura e por rejeitos provenientes do rompimento da barragem de Fundão. O Parque Estadual do Rio Doce sofreu impacto moderado com o rompimento da Barragem de Fundão, com mortalidade direta de indivíduos por inundação e deposição de rejeitos e pela deposição de rejeitos imediata e de significância média. Também houve mudanças na condição do habitat em função da erosão e deposição de rejeitos de significância moderada (Golder Associates 2016).
 
 ## PESQUISAS RECOMENDADAS
 
@@ -55,26 +55,28 @@ Pesquisas que visem melhor compreender a taxonomia e distribuição da espécie 
 
 ## REFERÊNCIAS
 
+Almeida, C.F.C.B.R. & Albuquerque, U.P. (2002). [Check-list of the Family Lamiaceae in Pernambuco, Brazil](https://doi.org/10.1590/S1516-89132002000300013). *Brazilian Archives of Biology and Technology*, 45, 343--353.
+
 Bieski, I.G.C., Santos, F.R., Oliveira, R.M., Espinosa, M.M., Macedo, M., Albuquerque, U.P., *et al.* (2012). [Ethnopharmacology of medicinal plants of the Pantanal Region (Mato Grosso, Brazil)](https://doi.org/10.1155/2012/272749). *Evidence-based Complementary and Alternative Medicine*, 2012, 1--36.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-CNCFlora. (2012). [Hyptis paludosa](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Hyptis paludosa).  *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.
+CNCFlora. (2012). *Hyptis paludosa*. *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*. Disponível em: [http://cncflora.jbrj.gov.br/portal/pt-br/profile/Hyptis paludosa.](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Hyptis paludosa) Acesso em 11 de abril de 2023.
 
 Epling, C. (1938). A Synopsis of the Labiatae of the Guianas. *Bulletin of Miscellaneous Information*, 1938, 187--196.
 
-Fátima C. B. R. Almeida, C. de & Albuquerque, U.P. (2002). Check-list of the Family Lamiaceae in Pernambuco, Brazil. *Brazilian Archives of Biology and Technology*, 45, 343--353.
+Goebel, M.J.B. & Souza, A.C.R. (2017). [Levantamento das plantas medicinais utilizadas por usuários de três unidades de saúde pública do município de Vilhena - RO](https://dx.doi.org/10.22614/resc-v6-n2-677).  *Saber Científico*, 6, 35--46.
 
-Goebel, M.J.B. & Souza, A.C.R. (2017). Levantamento das plantas medicinais utilizadas por usuários de três unidades de saúde pública do município de Vilhena - RO. *Saber Científico*, 6, 35--46.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Harley, R.M. (2012). New species of Hyptis (Lamiaceae) from Bolivia.  *Kew Bulletin*, 67, 779--788.
+Harley, R.M. (2012). [New species of Hyptis (Lamiaceae) from Bolivia](https://doi.org/10.1007/s12225-012-9407-z). *Kew Bulletin*, 67, 779--788.
 
-Harley, R.M. & Antar, G.M. (2023).  [Hyptis](https://floradobrasil.jbrj.gov.br/FB8237). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Harley, R.M. & Antar, G.M. (2023). *Hyptis*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB8237.](https://floradobrasil.jbrj.gov.br/FB8237) Acesso em 11 de abril de 2023.
 
-Moreira, S.N. (2015). Flora, distribuição e estrutura da vegetação das áreas úmidas de uma região savânica brasileira: implicações para a conservação da biodiversidade, 1--131.
+Moreira, S.N. (2015). *Flora, distribuição e estrutura da vegetação das áreas úmidas de uma região savânica brasileira: implicações para a conservação da biodiversidade*. Tese (Doutorado em Biologia Vegetal) - Instituto de Ciências Biológicas, Departamento de Botânica, Programa de Pós Graduação em Biologia Vegetal, Universidade Federal de Minas Gerais.
 
 Pereira, A.G., Alcântara, L.C.S., Oliveira, R.E. de & Sais, A.C. (2021).  [Plantas com potencial medicinal em quintais agroflorestais: diversidade entre comunidades rurais do Portal da Amazônia - Mato Grosso, Brasil](https://doi.org/10.33448/rsd-v10i6.15713). *Research, Society and Development*, 10, 1--17.
 
 Santos, J.S. & Neto, G.G. (2017). Plantas de quintais da área urbana de comodoro, Mato Grosso, Brasil. *Flora, Vegetação e Etnobotânica*, 1, 31--57.
 
-Tannus, J.L.S. (2007). Estudo da vegetação dos campos úmidos de cerrado: aspectos florísticos e ecológicos, 1--138.
+Tannus, J.L.S. (2007). *Estudo da vegetação dos campos úmidos de cerrado: aspectos florísticos e ecológicos*. Tese (Doutorado em Biologia Vegetal) - Universidade Estadual Paulista "Júlio de Mesquita Filho", Campus de Rio Claro.

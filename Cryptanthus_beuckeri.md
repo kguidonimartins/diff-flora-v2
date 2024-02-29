@@ -36,7 +36,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: NT (Brasil 2022)
 
@@ -56,6 +56,6 @@ Revisão taxonômica e estudos de biologia reprodutiva.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Maciel, J.R. (2023). [Cryptanthus Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB5994>.).
+Maciel, J.R. (2023). *Cryptanthus*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB5994.](https://floradobrasil.jbrj.gov.br/FB5994) Acesso em 11 de abril de 2023.
 
-Ramírez-Morillo, I.M. (1996). Systematics, phylogeny, and chromossome number evolution of Cryptanthus (Bromeliaceae). tese de doutorado.  University of Missouri.
+Ramírez-Morillo, I.M. (1996). *Systematics, phylogeny, and chromossome number evolution of Cryptanthus (Bromeliaceae)*. Tese (Doutorado em Biologia) - University of Missouri.

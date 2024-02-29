@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: PE Serra do B
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -57,12 +57,12 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, história de 
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Maas, P.J.M. & Kamer, H.M.-V.D. (1988). Burmanniaceae. Em: *Flora de Colombia* (orgs. Colombia, U.N. de & Historia Natural, M. de).  Universidad Nacional de Colombia, Instituto Colombiano para el Desarrollo de la Ciencia y la Technologia (COLCIENCIAS), p. 35--125.
+Maas, P.J.M. & Kamer, H.M.-V. (1988). Burmanniaceae. Em: *Flora de Colombia* (orgs. Universidad Nacional de Colombia & Museo de Historia Natural). Universidad Nacional de Colombia; Instituto Colombiano para el Desarrollo de la Ciencia y la Technologia (COLCIENCIAS), p. 35--125.
 
-Maas, P.J.M., Kamer, H.M.-V.D., Benthem, J.V., Snelders, H.C.M. & Rubsamen, T. (1986). Burmanniaceae. *Flora Neotropica*, 40/42, 1--189.
+Maas, P.J.M., Kamer, H.M.-V., Benthem, J.V., Snelders, H.C.M. & Rubsamen, T. (1986). Burmanniaceae. *Flora Neotropica*, 40/42, 1--189.
 
 Merckx, V.S.F.T., Freudenstein, J.V., Kissling, J., Christenhusz, M.J.M., Stotler, R.E., Crandall-Stotler, B., *et al.* (2013). [Taxonomy and classification](https://doi.org/10.1007/978-1-4614-5209-6_2). Em: *Mycoheterotrophy: The Biology of Plants Living on Fungi* (org. Merckx, V.S.F.T.). Springer Science+Business Media, p. 19--101.
 
-Oliveira, W.M. de, Costa, J.M., Mesquita Maia, A.P. de, Ferreira, L.V., Souza, M.G.C. de & Pietrobom, M.R. (2022). [Primeiro registro de Miersiella umbellata (Miers) Urb. (Burmanniaceae) na Amazônia brasileira](https://doi.org/10.33448/rsd-v11i14.36701). *Research, Society and Development*, 11.
+Oliveira, W.M., Costa, J.M., Maia, A.P.M., Ferreira, L.V., Souza, M.G.C.  & Pietrobom, M.R. (2022). [Primeiro registro de Miersiella umbellata (Miers) Urb. (Burmanniaceae) na Amazônia brasileira](https://doi.org/10.33448/rsd-v11i14.36701). *Research, Society and Development*, 11.
 
-Silva, D.F. & Oliveira, W.M. (2023).  [Burmanniaceae](https://floradobrasil.jbrj.gov.br/FB110624). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Silva, D.F. & Oliveira, W.M. (2023). *Burmanniaceae*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB110624.](https://floradobrasil.jbrj.gov.br/FB110624) Acesso em 11 de abril de 2023.

@@ -2,6 +2,10 @@
 
 **Autores(as)**: Juliana Amaral de Oliveira, Eline Martins, Karlo Guidoni e Luciano Zandoná
 
+![Fonte: Andreas Kay - Flickr](media/rId20.jpg){width="5.0in" height="6.666666666666667in"}
+
+Fonte: *Andreas Kay - Flickr*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -37,7 +41,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -59,13 +63,13 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Christenson, E.A. (1995). Type specimens of Orchidaceae conserved at the Komarov Institute, St. Petersburg, Russia (LE). *Brittonia*, 47, 31--43.
 
-Flora e Funga do Brasil. (2023). [Jardim Botânico do Rio de Janeiro](http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaNovaConsulta.do#CondicaoTaxonCP).
+Flora e Funga do Brasil. (2023). *Jardim Botânico do Rio de Janeiro*.  Disponível em: [http://floradobrasil.jbrj.gov.br/.](http://floradobrasil.jbrj.gov.br/) Acesso em 11 de abril de 2023.
 
 Jeffrey, D.C., Arditti, J. & Koopowitz, H. (1970). Sugar Content in Floral and Extrafloral Exudates of Orchids: Pollination, Myrmecology and Chemotaxonomy Implication. *New Phytologist*, 69, 187--195.
 
 Peixoto, A.L. & Jesus, R.M. (2016). Reserva Natural Vale: memórias de 65 anos de conservação. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T.  & Srbek-Araujo, A.C.). Editora Rupestre, p. 21--29.
 
-Pessoa, E., Silva, M.J.C., Oliveira, M.S., Junior, W.R.S. & Ferreira, A.W.C. (2022). [An updated checklist reveals strong incongruities with previous studies: insights after revisiting a regional orchid list](https://doi.org/10.1590/0102-33062020abb0487). *Acta Botanica Brasilica*, 36.
+Pessoa, E., Silva, M.J.C., Oliveira, M.S., Silva Junior, W.R. & Ferreira, A.W.C. (2022). [An updated checklist reveals strong incongruities with previous studies: insights after revisiting a regional orchid list](https://doi.org/10.1590/0102-33062020abb0487).  *Acta Botanica Brasilica*, 36.
 
 Rolim, S.G., Sylvestre, L., Franken, E.P. & Coelho, M.A.N. (2016).  Epífitas vasculares nas fisionomias vegetais da Reserva Natural Vale, Espírito Santo. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T.  & Srbek-Araujo, A.C.). Editora Rupestre, p. 269--281.
 

@@ -2,6 +2,10 @@
 
 **Autores(as)**: Eduardo Amorim, Monira Bruno Bicalho, Karlo Guidoni e Luciano Zandoná
 
+![Fonte: Nasser Halaweh - Wikimedia Commons](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}
+
+Fonte: *Nasser Halaweh - Wikimedia Commons*
+
 **Nomes populares**: Não disponível
 
 **Filo**: Tracheophyta
@@ -26,7 +30,7 @@
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-Espécie não endêmica do Brasil, ocorrendo na Amazônia e Mata Atlântica.  Possui registros em estados de diversas regiões do Brasil, exceto na região Sul (Meneguzzo 2023). Também é encontrada na Guiana Francesa, Guiana, Peru, Suriname, Trinidad-Tobago e Venezuela (POWO 2019). Ocorre nos seguintes estados brasileiros: AM, BA, ES, MT, PA, PB, PE, RJ, RN, RR.
+Espécie não endêmica do Brasil, ocorrendo na Amazônia e Mata Atlântica.  Possui registros em estados de diversas regiões do Brasil, exceto na região Sul (Meneguzzo 2023). Também é encontrada na Guiana Francesa, Guiana, Peru, Suriname, Trinidad-Tobago e Venezuela (POWO 2023). Ocorre nos seguintes estados brasileiros: AM, BA, ES, MT, PA, PB, PE, RJ, RN, RR.
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -34,7 +38,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -58,6 +62,6 @@ Fraga, C.N. & Peixoto, A.L. (2004). [Florística e ecologia das Orchidaceae das 
 
 Hoehne, F.C. (1949). *Iconografia de orchidaceas do Brasil: gênero e principais espécies em texto e em pranchas*. Editora Plantarum.
 
-Meneguzzo, T.E.C. (2023). [Coryanthes Flora e Funga do Brasil](Disponível em: <https://floradobrasil.jbrj.gov.br/FB11402>.).
+Meneguzzo, T.E.C. (2023). *Coryanthes*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB11402.](https://floradobrasil.jbrj.gov.br/FB11402) Acesso em 11 de abril de 2023.
 
-POWO. (2019). [Plants of the World Online](http://www.plantsoftheworldonline.org/). *Facilitated by the Royal Botanic Gardens, Kew*.
+POWO. (2023). *Plants of the World Online*. *Facilitated by the Royal Botanic Gardens, Kew*. Disponível em: [http://www.plantsoftheworldonline.org/.](http://www.plantsoftheworldonline.org/) Acesso em 11 de abril de 2023.

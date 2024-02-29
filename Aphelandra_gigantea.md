@@ -35,7 +35,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -57,4 +57,4 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Profice, S.R. & Andreata, R.H.P. (2011). Revisão taxonômica de Aphelandra R. Br.(Acanthaceae) de corola curto-bilabiada. *Pesquisas, Botânica*, 62, 7--70.
 
-Zanatta, M.R.V., Hirao, Y.V., Zuntini, A.R. & Kameyama, C. (2023).  [Aphelandra](Disponível em: <https://floradobrasil.jbrj.gov.br/FB4081>).  *in Flora e Funga do Brasil*.
+Zanatta, M.R.V., Hirao, Y.V., Zuntini, A.R. & Kameyama, C. (2023).  *Aphelandra*. *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB4081.](https://floradobrasil.jbrj.gov.br/FB4081) Acesso em 11 de abril de 2023.

@@ -41,7 +41,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: CR (Brasil 2022)
 
@@ -61,14 +61,14 @@ Pesquisas sobre tamanho e a tendência populacional, história de vida e ecologi
 
 Abreu, K.M.P., Braga, J.M.A. & Nascimento, M.T. (2014). Tree species diversity of Coastal Lowland Semideciduous Forest Fragments in Northern Rio de Janeiro State, Brazil. *Bioscience Journal*, 30, 1529--1550.
 
-Araujo, D.S.D., Sá, C.F.C., Fontella-Pereira, J., Garcia, D.S., Ferreira, M.V., Paixão, R.J., *et al.* (2009). Área de Proteção Ambiental de Massambaba, Rio de Janeiro: caracterização fitofisionômica e florística. *Rodriguésia*, 60, 67--96.
+Araujo, D.S.D., Sá, C.F.C., Fontella-Pereira, J., Garcia, D.S., Ferreira, M.V., Paixão, R.J., *et al.* (2009). [Área de Proteção Ambiental de Massambaba, Rio de Janeiro: caracterização fitofisionômica e florística](https://doi.org/10.1590/2175-7860200960104).  *Rodriguésia*, 60, 67--96.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
 Caldas, D.K.D., Baumgratz, J.F.A. & Souza, M.C. (2020). [Flora of the state of Rio de Janeiro: Myrciaria, Neomitranthes and Siphoneugena (Myrtaceae)](https://doi.org/10.1590/2175-7860202071117). *Rodriguesia*, 71, 1--31.
 
-CNCFlora. (2012). [Neomitranthes langsdorffii](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Neomitranthes langsdorffii).  *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.
+CNCFlora. (2012). *Neomitranthes langsdorffii*. *Lista Vermelha da flora brasileira versão 2012.2. Centro Nacional de Conservação da Flora*.  Disponível em: [http://cncflora.jbrj.gov.br/portal/pt-br/profile/Neomitranthes langsdorffii.](http://cncflora.jbrj.gov.br/portal/pt-br/profile/Neomitranthes langsdorffii) Acesso em 11 de abril de 2023.
 
-Giaretta, A., Tuler, A.C., Costa Souza, M. da, Valdemarin, K.S., Mazine, F.F. & Peixoto, A.L. (2016). Diversidade de Myrtaceae na Reserva Natural Vale. Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p. 247--257.
+Giaretta, A., Tuler, A.C., Souza, M.C., Valdemarin, K.S., Mazine, F.F. & Peixoto, A.L. (2016). Diversidade de Myrtaceae na Reserva Natural Vale.  Em: *Floresta Atlântica de Tabuleiro: diversidade e endemismos na Reserva Natural Vale* (orgs. Rolim, S.G., Menezes, L.F.T. & Srbek-Araujo, A.C.). Editora Rupestre, p. 247--257.
 
-Mazine, F.F., Bünger, M., Faria, J.E.Q., Fernandes, T., Giaretta, A., Valdemarin, K.S., *et al.* (2023).  [Eugenia](https://floradobrasil.jbrj.gov.br/FB10338). *Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro*.
+Mazine, F.F., Bünger, M., Faria, J.E.Q., Fernandes, T., Giaretta, A., Valdemarin, K.S., *et al.* (2023). *Eugenia*. *Flora e Funga do Brasil.  Jardim Botânico do Rio de Janeiro*. Disponível em: [https://floradobrasil.jbrj.gov.br/FB10338.](https://floradobrasil.jbrj.gov.br/FB10338) Acesso em 11 de abril de 2023.
